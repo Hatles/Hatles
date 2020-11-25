@@ -4,7 +4,8 @@ name: Build README
 # Run workflow at 12:01 on Sunday, Wednesday, and Friday
 on:
   schedule:
-    - cron: '1 12 * * 0,3,5'
+    - cron: '0 * * * *'
+  #  - cron: '0 0 * * *' every day
   # Run workflow on pushes to main branch
   push:
     branches:
@@ -35,7 +36,7 @@ jobs:
     # Run script "updateReadme.js" 
     - name: Update README
       run: |-
-        node updateReadme.js
+        npm run update
         cat README.md
 
     # Commit changes

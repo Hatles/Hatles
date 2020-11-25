@@ -1,54 +1,59 @@
 // Include node fs (file stream) and https modules
 const fs = require('fs');
-const https = require('https');
+const fetch = require('node-fetch');
 
-// API endpoint
-const url = 'https://dev.to/api/articles?username=<YOUR DEV USERNAME>';
+const defaultData = {
+  USERNAME: 'Hatles'
+};
 
-function readWriteAsync() {
-  // Get articles using HTTPS
-  https.get(url, (res) => {
-    res.setEncoding('utf8');
+async function getSlipAdvice() {
+  const response = await fetch('https://api.adviceslip.com/advice');
+  const data = await response.json();
+  return data['slip']['advice'];
+  // return data.slip.advice;
+}
 
-    // Set variable body to response data from API
-    let body = '';
-    res.on('data', (data) => body += data);
+async function getReadmeData() {
+  const slipAdvice = await getSlipAdvice();
+  return {
+    ...defaultData,
+    SLIP_ADVICE: slipAdvice
+  };
+}
 
-    res.on('end', () => {
-      // Parse the JSON response
-      body = JSON.parse(body);
+const templateFile = 'src/README.template.md';
+const readmeFile = 'README.md';
 
-      // Shorten array to latest 3 articles
-      body = body.slice(0, 3);
+function updateReadme(data) {
 
-      // Create string of markdown to be inserted
-      const articles = `\n - [${body[0].title}](${body[0].url})\n - [${body[1].title}](${body[1].url})\n - [${body[2].title}](${body[2].url})\n \n`;
+  // Update README using FS
+  fs.readFile(templateFile, 'utf-8', (err, template) => {
+    if (err) {
+      throw err;
+    }
 
-      // Update README using FS
-      fs.readFile('src/README.template.md', 'utf-8', (err, data) => {
-        if (err) {
-          throw err;
-        }
+    // Replace text using regex: "I'm writing: ...replace... ![Build"
+    // Regex101.com is a lifesaver!
+    let result = template;
+    Object.keys(data).forEach(key => {
+      result = result.replace(new RegExp('<' + key + '>',"g"), data[key]);
+    });
 
-        // Replace text using regex: "I'm writing: ...replace... ![Build"
-        // Regex101.com is a lifesaver!
-        const updatedMd = data.replace(
-          /(?<=I'm writing:\n)[\s\S]*(?=\!\[Build)/gim,
-          articles
-        );
+    // Write the new README
+    fs.writeFile(readmeFile, result, 'utf-8', (err) => {
+      if (err) {
+        throw err;
+      }
 
-        // Write the new README
-        fs.writeFile('README.md', updatedMd, 'utf-8', (err) => {
-          if (err) { 
-            throw err;
-          }
-
-          console.log('README update complete.');
-        });
-      });
+      console.log('README update complete.');
     });
   });
 }
 
 // Call the function
-readWriteAsync();
+
+
+(async () => {
+  const data = await getReadmeData();
+  updateReadme(data);
+})();

@@ -1,13 +1,35 @@
 # Self-updating README
-
-This text won't be change.
-
-The text below will be, though!
-
-What I'm writing:
-
-<ARTICLES>
-
 ![Build README](https://github.com/<USERNAME>/<USERNAME>/workflows/Build%20README/badge.svg)
 
-This won't be impacted either. The text above is a GitHub build badge.
+![season](https://europe-west1-serious-venture-274315.cloudfunctions.net/function-season)
+
+### Hi there 👋
+
+**Random slip advice:**
+
+`<SLIP_ADVICE>`
+
+Powered by https://api.adviceslip.com/
+
+
+**Random banner:**
+
+![random banner](https://europe-west1-serious-venture-274315.cloudfunctions.net/function-2)
+
+Powered by https://source.unsplash.com/
+
+
+<!--
+**Hatles/Hatles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->

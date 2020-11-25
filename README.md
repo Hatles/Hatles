@@ -1,6 +1,17 @@
+# Self-updating README
+![Build README](https://github.com/Hatles/Hatles/workflows/Build%20README/badge.svg)
+
 ### Hi there 👋
 
-![alt text](https://europe-west1-serious-venture-274315.cloudfunctions.net/function-2)
+Random slip advice:
+
+`You're not that important; it's what you do that counts.`
+
+Powered by https://api.adviceslip.com/
+
+![random banner](https://europe-west1-serious-venture-274315.cloudfunctions.net/function-2)
+
+Powered by https://source.unsplash.com/
 
 <!--
 **Hatles/Hatles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
