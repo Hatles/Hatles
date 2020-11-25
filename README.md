@@ -1,17 +1,23 @@
 # Self-updating README
 ![Build README](https://github.com/Hatles/Hatles/workflows/Build%20README/badge.svg)
 
+![season](https://europe-west1-serious-venture-274315.cloudfunctions.net/function-season)
+
 ### Hi there 👋
 
-Random slip advice:
+**Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
+
+
+**Random banner:**
 
 ![random banner](https://europe-west1-serious-venture-274315.cloudfunctions.net/function-2)
 
 Powered by https://source.unsplash.com/
+
 
 <!--
 **Hatles/Hatles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
