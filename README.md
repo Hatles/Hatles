@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
