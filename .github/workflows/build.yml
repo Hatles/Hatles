@@ -4,8 +4,7 @@ name: Build README
 # Run workflow at 12:01 on Sunday, Wednesday, and Friday
 on:
   schedule:
-    - cron: '0 * * * *'
-  #  - cron: '0 0 * * *' every day
+    - cron: '0 0 * * *'
   # Run workflow on pushes to main branch
   push:
     branches:
