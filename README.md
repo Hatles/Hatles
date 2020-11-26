@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Why wait until valentines day for a romantic gesture?`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
