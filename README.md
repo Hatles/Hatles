@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Quality beats quantity.`
+`Good things come to those who wait.`
 
 Powered by https://api.adviceslip.com/
 
