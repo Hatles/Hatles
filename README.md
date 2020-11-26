@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid of silly ideas.`
+`Quality beats quantity.`
 
 Powered by https://api.adviceslip.com/
 
