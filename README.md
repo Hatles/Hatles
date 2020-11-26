@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn to handle criticism.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
