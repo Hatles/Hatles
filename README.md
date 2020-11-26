@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes, you just need to say sorry. Even if it's not your fault.`
+`Tell it like it is.`
 
 Powered by https://api.adviceslip.com/
 
