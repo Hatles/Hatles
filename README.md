@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Tell it like it is.`
+`If you've nothing nice to say, say nothing.`
 
 Powered by https://api.adviceslip.com/
 
