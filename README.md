@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`Don't be afraid of silly ideas.`
 
 Powered by https://api.adviceslip.com/
 
