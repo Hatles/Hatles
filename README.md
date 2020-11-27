@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
