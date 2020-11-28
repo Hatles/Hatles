@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
