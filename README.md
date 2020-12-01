@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.`
+`Most things done in secrecy are better left undone.`
 
 Powered by https://api.adviceslip.com/
 
