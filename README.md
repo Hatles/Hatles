@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things done in secrecy are better left undone.`
+`Taking photos with tablet devices looks weird.`
 
 Powered by https://api.adviceslip.com/
 
