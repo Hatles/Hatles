@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Taking photos with tablet devices looks weird.`
+`Try using an old idea.`
 
 Powered by https://api.adviceslip.com/
 
