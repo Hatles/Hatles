@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
