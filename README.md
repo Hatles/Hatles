@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`Stop using the term "busy" as an excuse.`
 
 Powered by https://api.adviceslip.com/
 
