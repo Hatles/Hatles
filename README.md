@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop using the term "busy" as an excuse.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
