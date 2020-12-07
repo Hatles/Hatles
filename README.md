@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think nobody cares if you're alive, try missing a few payments.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
