@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Cars are bad investments.`
 
 Powered by https://api.adviceslip.com/
 
