@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Cars are bad investments.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
