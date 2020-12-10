@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
