@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
