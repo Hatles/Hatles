@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat non-snow-coloured snow.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
