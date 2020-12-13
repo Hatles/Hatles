@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Give up your seat for someone who needs it.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
