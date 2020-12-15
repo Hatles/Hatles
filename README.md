@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.`
+`Don't judge a book by its cover, unless it has a synopsis on the back.`
 
 Powered by https://api.adviceslip.com/
 
