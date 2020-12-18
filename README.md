@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
