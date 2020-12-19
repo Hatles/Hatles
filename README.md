@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
 
 Powered by https://api.adviceslip.com/
 
