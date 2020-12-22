@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`It's not about who likes you, it's about who you like.`
 
 Powered by https://api.adviceslip.com/
 
