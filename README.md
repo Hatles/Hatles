@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's not about who likes you, it's about who you like.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
