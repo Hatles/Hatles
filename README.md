@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Look people in the eye.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
