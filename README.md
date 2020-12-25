@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
