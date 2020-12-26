@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`Stop procrastinating.`
 
 Powered by https://api.adviceslip.com/
 
