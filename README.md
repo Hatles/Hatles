@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop procrastinating.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
