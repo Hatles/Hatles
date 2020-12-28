@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
