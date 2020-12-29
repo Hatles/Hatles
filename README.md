@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect your elders.`
+`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
 
 Powered by https://api.adviceslip.com/
 
