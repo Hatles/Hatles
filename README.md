@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
