@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
 
 Powered by https://api.adviceslip.com/
 
