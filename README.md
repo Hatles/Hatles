@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`For every complex problem there is an answer that is clear, simple, and wrong.`
 
 Powered by https://api.adviceslip.com/
 
