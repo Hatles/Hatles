@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`For every complex problem there is an answer that is clear, simple, and wrong.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
