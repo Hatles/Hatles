@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Look people in the eye.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
