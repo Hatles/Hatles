@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Turn jeans inside out when washing them to help preserve their colour.`
+`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
 
 Powered by https://api.adviceslip.com/
 
