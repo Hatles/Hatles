@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
