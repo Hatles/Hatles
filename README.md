@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never set an alarm clock unless you know how to switch it off`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
