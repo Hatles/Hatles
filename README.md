@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`You will always regret the round of JÃ¤germeister.`
 
 Powered by https://api.adviceslip.com/
 
