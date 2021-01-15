@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
