@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`Good advice is something a man gives when he is too old to set a bad example.`
 
 Powered by https://api.adviceslip.com/
 
