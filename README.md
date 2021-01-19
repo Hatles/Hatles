@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
