@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No one knows anyone else in the way you do.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
