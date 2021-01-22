@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You have as many hours in a day as the people you admire most.`
+`Life can be a lot more interesting inside your head.`
 
 Powered by https://api.adviceslip.com/
 
