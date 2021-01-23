@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`Exercise in the rain can really make you feel alive.`
 
 Powered by https://api.adviceslip.com/
 
