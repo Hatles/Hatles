@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`If you're going bald, don't comb your hair over your bald patch.`
 
 Powered by https://api.adviceslip.com/
 
