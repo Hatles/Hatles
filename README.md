@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`What could you increase? What could you reduce?`
 
 Powered by https://api.adviceslip.com/
 
