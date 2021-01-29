@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What could you increase? What could you reduce?`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
