@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`If you are ever in doubt about whether or not to wash your hair: Wash it.`
 
 Powered by https://api.adviceslip.com/
 
