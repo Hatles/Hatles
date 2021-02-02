@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
