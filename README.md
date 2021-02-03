@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
 
 Powered by https://api.adviceslip.com/
 
