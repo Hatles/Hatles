@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
 
 Powered by https://api.adviceslip.com/
 
