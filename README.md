@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
