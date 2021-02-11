@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A long walk alone with some time to think, can work wonders.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
