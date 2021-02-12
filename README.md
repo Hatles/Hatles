@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`If you don't want something to be public, don't post it on the Internet.`
 
 Powered by https://api.adviceslip.com/
 
