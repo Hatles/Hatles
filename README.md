@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't want something to be public, don't post it on the Internet.`
+`Most things done in secrecy are better left undone.`
 
 Powered by https://api.adviceslip.com/
 
