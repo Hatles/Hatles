@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
