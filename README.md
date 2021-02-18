@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
