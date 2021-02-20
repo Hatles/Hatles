@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't use Excel or Powerpoint documents for your basic word processing needs.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
