@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Sometimes it's best to ignore other people's advice.`
 
 Powered by https://api.adviceslip.com/
 
