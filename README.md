@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No one knows anyone else in the way you do.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
