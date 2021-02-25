@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes, you just need to say sorry. Even if it's not your fault.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
