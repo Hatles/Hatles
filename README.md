@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
 
 Powered by https://api.adviceslip.com/
 
