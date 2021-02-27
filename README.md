@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
+`Eat food. Not too much, mostly plants.`
 
 Powered by https://api.adviceslip.com/
 
