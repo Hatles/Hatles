@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
