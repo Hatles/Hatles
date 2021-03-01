@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Enjoy a little nonsense now and then.`
+`If you can't do anything about it, there's no point in worrying about it.`
 
 Powered by https://api.adviceslip.com/
 
