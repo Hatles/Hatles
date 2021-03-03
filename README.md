@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Age is of no importance, unless you are a cheese.`
+`One of the top five regrets people have is that they didn't stay in contact with friends.`
 
 Powered by https://api.adviceslip.com/
 
