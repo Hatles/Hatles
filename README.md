@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
+`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
 
 Powered by https://api.adviceslip.com/
 
