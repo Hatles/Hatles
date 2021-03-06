@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
