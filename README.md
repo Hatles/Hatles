@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`You don't need to floss all of your teeth. Only the ones you want to keep.`
 
 Powered by https://api.adviceslip.com/
 
