@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`Do not check work email on your days off.`
 
 Powered by https://api.adviceslip.com/
 
