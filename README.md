@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
 
 Powered by https://api.adviceslip.com/
 
