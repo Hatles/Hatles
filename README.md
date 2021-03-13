@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
+`Once you find a really good friend don't do anything that could mess up your friendship.`
 
 Powered by https://api.adviceslip.com/
 
