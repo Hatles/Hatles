@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect your elders.`
+`Some of life's best lessons are learnt at the worst times.`
 
 Powered by https://api.adviceslip.com/
 
