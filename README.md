@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop procrastinating.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
