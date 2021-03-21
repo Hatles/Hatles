@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
