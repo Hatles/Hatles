@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`Never let your Mother cut your hair.`
 
 Powered by https://api.adviceslip.com/
 
