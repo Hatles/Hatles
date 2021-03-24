@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
