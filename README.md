@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give to others advice which you wouldn't follow.`
+`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
 
 Powered by https://api.adviceslip.com/
 
