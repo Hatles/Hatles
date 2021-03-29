@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
