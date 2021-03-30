@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
