@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
 
 Powered by https://api.adviceslip.com/
 
