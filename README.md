@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`Don't ever name files or folders using the word "Final".`
 
 Powered by https://api.adviceslip.com/
 
