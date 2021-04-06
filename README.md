@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Tell it like it is.`
+`Exercise in the rain can really make you feel alive.`
 
 Powered by https://api.adviceslip.com/
 
