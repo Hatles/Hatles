@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`What could you increase? What could you reduce?`
 
 Powered by https://api.adviceslip.com/
 
