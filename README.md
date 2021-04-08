@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What could you increase? What could you reduce?`
+`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
 
 Powered by https://api.adviceslip.com/
 
