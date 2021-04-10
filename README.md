@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't want something to be public, don't post it on the Internet.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
