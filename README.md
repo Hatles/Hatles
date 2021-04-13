@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always double check you actually attached the file to the email.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
