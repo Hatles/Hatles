@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`You will always regret the round of Tequila.`
 
 Powered by https://api.adviceslip.com/
 
