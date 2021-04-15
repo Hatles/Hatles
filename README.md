@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of Tequila.`
+`Only those who attempt the impossible can achieve the absurd.`
 
 Powered by https://api.adviceslip.com/
 
