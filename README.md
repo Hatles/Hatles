@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Only those who attempt the impossible can achieve the absurd.`
+`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
 
 Powered by https://api.adviceslip.com/
 
