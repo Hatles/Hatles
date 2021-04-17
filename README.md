@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
+`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
 
 Powered by https://api.adviceslip.com/
 
