@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Never pay full price for a sofa at DFS.`
 
 Powered by https://api.adviceslip.com/
 
