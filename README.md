@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never pay full price for a sofa at DFS.`
+`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
 
 Powered by https://api.adviceslip.com/
 
