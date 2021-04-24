@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
