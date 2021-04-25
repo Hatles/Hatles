@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Make choices and dont look back.`
 
 Powered by https://api.adviceslip.com/
 
