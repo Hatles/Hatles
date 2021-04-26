@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Make choices and dont look back.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
