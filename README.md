@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
