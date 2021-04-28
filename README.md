@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Hold the door open for the next person.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
