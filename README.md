@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
