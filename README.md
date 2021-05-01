@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
 
 Powered by https://api.adviceslip.com/
 
