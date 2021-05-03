@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never waste an opportunity to tell someone you love them.`
+`You will always regret the round of Tequila.`
 
 Powered by https://api.adviceslip.com/
 
