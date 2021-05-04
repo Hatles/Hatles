@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of Tequila.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
