@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
