@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The hardest things to say are usually the most important.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
