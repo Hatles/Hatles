@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Make choices and dont look back.`
 
 Powered by https://api.adviceslip.com/
 
