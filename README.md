@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Make choices and dont look back.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
