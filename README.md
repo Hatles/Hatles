@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
