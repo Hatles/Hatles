@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
