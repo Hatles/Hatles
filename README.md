@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Smile and the world smiles with you. Frown and you're on your own.`
+`Always seek out advice or opinions when making a decision.`
 
 Powered by https://api.adviceslip.com/
 
