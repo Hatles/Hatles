@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`Some people would be better off if they took their own advice.`
 
 Powered by https://api.adviceslip.com/
 
