@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
