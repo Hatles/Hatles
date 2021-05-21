@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`What could you increase? What could you reduce?`
 
 Powered by https://api.adviceslip.com/
 
