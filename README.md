@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Build something out of LEGO.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
