@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one hadn't worked so hard.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
