@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid to ask questions.`
+`Only those who attempt the impossible can achieve the absurd.`
 
 Powered by https://api.adviceslip.com/
 
