@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Only those who attempt the impossible can achieve the absurd.`
+`Brush your teeth the moment you get up.`
 
 Powered by https://api.adviceslip.com/
 
