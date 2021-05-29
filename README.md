@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`If you don't like the opinion you've been given, get another one.`
 
 Powered by https://api.adviceslip.com/
 
