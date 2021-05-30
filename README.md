@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`Don't always rely on your comforts.`
 
 Powered by https://api.adviceslip.com/
 
