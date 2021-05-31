@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`Repeat people's names when you meet them.`
 
 Powered by https://api.adviceslip.com/
 
