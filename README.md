@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Repeat people's names when you meet them.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
