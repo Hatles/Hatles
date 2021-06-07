@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Smile and the world smiles with you. Frown and you're on your own.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
