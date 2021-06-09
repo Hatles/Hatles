@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
