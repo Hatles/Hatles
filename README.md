@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give to others advice which you wouldn't follow.`
+`If you don't like the opinion you've been given, get another one.`
 
 Powered by https://api.adviceslip.com/
 
