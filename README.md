@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always double check you actually attached the file to the email.`
+`Don't promise what you can't deliver.`
 
 Powered by https://api.adviceslip.com/
 
