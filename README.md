@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't promise what you can't deliver.`
+`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
 
 Powered by https://api.adviceslip.com/
 
