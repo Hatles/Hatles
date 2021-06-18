@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If your hair is thinning, try dying your hair a similar tone to your scalp.`
+`When something goes wrong in life, just shout "plot twist!" and carry on.`
 
 Powered by https://api.adviceslip.com/
 
