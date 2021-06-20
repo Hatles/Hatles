@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Cars are bad investments.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
