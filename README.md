@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Play is the true mother of invention.`
+`The hardest things to say are usually the most important.`
 
 Powered by https://api.adviceslip.com/
 
