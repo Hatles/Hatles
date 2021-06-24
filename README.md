@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`Don't use Excel or Powerpoint documents for your basic word processing needs.`
 
 Powered by https://api.adviceslip.com/
 
