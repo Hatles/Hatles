@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
