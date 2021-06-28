@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Don't use Excel or Powerpoint documents for your basic word processing needs.`
 
 Powered by https://api.adviceslip.com/
 
