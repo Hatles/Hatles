@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one hadn't worked so hard.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
