@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
