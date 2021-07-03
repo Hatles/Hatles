@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
