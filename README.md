@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always the burrito.`
+`Repeat people's names when you meet them.`
 
 Powered by https://api.adviceslip.com/
 
