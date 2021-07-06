@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Build something out of LEGO.`
 
 Powered by https://api.adviceslip.com/
 
