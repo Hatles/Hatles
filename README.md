@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
