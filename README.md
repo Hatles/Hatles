@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some of life's best lessons are learnt at the worst times.`
+`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
 
 Powered by https://api.adviceslip.com/
 
