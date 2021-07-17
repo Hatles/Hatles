@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
