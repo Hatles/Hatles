@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
