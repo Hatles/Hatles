@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
