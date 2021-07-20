@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's always the quiet ones.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
