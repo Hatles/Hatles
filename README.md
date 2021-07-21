@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
