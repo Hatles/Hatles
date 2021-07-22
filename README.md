@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Don't wear clean trousers when walking your dog in the park.`
 
 Powered by https://api.adviceslip.com/
 
