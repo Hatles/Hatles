@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
