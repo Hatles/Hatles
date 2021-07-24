@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You have as many hours in a day as the people you admire most.`
+`When faced with a choice, do both.`
 
 Powered by https://api.adviceslip.com/
 
