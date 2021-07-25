@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When faced with a choice, do both.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
