@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
