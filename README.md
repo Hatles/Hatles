@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To improve productivity, always have a shittier task to put off.`
+`It's not about who likes you, it's about who you like.`
 
 Powered by https://api.adviceslip.com/
 
