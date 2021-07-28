@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's not about who likes you, it's about who you like.`
+`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
 
 Powered by https://api.adviceslip.com/
 
