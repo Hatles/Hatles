@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`Stop using the term "busy" as an excuse.`
 
 Powered by https://api.adviceslip.com/
 
