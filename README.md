@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop using the term "busy" as an excuse.`
+`When you're looking up at birds flying overhead, keep your mouth closed.`
 
 Powered by https://api.adviceslip.com/
 
