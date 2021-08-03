@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
