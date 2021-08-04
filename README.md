@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`It's unlucky to be superstitious.`
 
 Powered by https://api.adviceslip.com/
 
