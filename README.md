@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's unlucky to be superstitious.`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
