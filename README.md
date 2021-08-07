@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never waste an opportunity to tell someone you love them.`
+`The hardest things to say are usually the most important.`
 
 Powered by https://api.adviceslip.com/
 
