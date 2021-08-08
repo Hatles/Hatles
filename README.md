@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The hardest things to say are usually the most important.`
+`One of the top five regrets people have is that they didn't stay in contact with friends.`
 
 Powered by https://api.adviceslip.com/
 
