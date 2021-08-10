@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do, or do not. There is no try.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
