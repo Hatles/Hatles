@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`When something goes wrong in life, just shout "plot twist!" and carry on.`
 
 Powered by https://api.adviceslip.com/
 
