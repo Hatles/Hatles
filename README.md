@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
