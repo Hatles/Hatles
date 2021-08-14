@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
