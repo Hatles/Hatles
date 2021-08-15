@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
