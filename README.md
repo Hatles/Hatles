@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Stop using the term "busy" as an excuse.`
 
 Powered by https://api.adviceslip.com/
 
