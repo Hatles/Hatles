@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop using the term "busy" as an excuse.`
+`Respect other people's opinions, even when they differ from your own.`
 
 Powered by https://api.adviceslip.com/
 
