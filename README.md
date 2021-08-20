@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect other people's opinions, even when they differ from your own.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
