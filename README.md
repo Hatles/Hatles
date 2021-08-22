@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`Don't drink bleach.`
 
 Powered by https://api.adviceslip.com/
 
