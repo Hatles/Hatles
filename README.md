@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't drink bleach.`
+`If you've nothing nice to say, say nothing.`
 
 Powered by https://api.adviceslip.com/
 
