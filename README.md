@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`Smile and the world smiles with you. Frown and you're on your own.`
 
 Powered by https://api.adviceslip.com/
 
