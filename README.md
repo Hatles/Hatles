@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Smile and the world smiles with you. Frown and you're on your own.`
+`Be a good lover.`
 
 Powered by https://api.adviceslip.com/
 
