@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be a good lover.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
