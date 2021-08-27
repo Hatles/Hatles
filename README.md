@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not compare yourself with others.`
+`You can have too much of a good thing.`
 
 Powered by https://api.adviceslip.com/
 
