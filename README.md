@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can have too much of a good thing.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
