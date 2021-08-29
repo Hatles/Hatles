@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
