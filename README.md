@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
