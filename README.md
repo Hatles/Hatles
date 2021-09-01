@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
+`Try buying a coffee for the creator of a free public API, now and then.`
 
 Powered by https://api.adviceslip.com/
 
