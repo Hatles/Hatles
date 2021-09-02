@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try buying a coffee for the creator of a free public API, now and then.`
+`Most things done in secrecy are better left undone.`
 
 Powered by https://api.adviceslip.com/
 
