@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things done in secrecy are better left undone.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
