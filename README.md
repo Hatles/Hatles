@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`You will always regret the round of JÃ¤germeister.`
 
 Powered by https://api.adviceslip.com/
 
