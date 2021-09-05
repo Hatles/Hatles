@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of JÃ¤germeister.`
+`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
 
 Powered by https://api.adviceslip.com/
 
