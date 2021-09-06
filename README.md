@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
