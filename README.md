@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
