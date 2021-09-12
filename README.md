@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
