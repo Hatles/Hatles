@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
+`Your smile could make someone's day, don't forget to wear it.`
 
 Powered by https://api.adviceslip.com/
 
