@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Your smile could make someone's day, don't forget to wear it.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
