@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
