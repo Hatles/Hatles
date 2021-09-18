@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`A common regret in life is wishing one hadn't worked so hard.`
 
 Powered by https://api.adviceslip.com/
 
