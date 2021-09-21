@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
