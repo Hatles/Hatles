@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
