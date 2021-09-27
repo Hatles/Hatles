@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid of silly ideas.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
