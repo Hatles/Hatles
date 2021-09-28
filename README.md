@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
