@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`You can have too much of a good thing.`
 
 Powered by https://api.adviceslip.com/
 
