@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can have too much of a good thing.`
+`Turn jeans inside out when washing them to help preserve their colour.`
 
 Powered by https://api.adviceslip.com/
 
