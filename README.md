@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Turn jeans inside out when washing them to help preserve their colour.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
