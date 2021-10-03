@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`Don't promise what you can't deliver.`
 
 Powered by https://api.adviceslip.com/
 
