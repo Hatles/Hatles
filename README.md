@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't promise what you can't deliver.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
