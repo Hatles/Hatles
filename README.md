@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`If you don't like the opinion you've been given, get another one.`
 
 Powered by https://api.adviceslip.com/
 
