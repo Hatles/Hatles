@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`A nod is as good as a wink to a blind horse.`
 
 Powered by https://api.adviceslip.com/
 
