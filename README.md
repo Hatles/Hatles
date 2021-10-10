@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
