@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`Try to do the things that you're incapable of.`
 
 Powered by https://api.adviceslip.com/
 
