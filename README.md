@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
