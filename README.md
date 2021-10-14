@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
