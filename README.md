@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
