@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`If you are ever in doubt about whether or not to wash your hair: Wash it.`
 
 Powered by https://api.adviceslip.com/
 
