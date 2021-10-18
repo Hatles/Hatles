@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not compare yourself with others.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
