@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`Do a bit more for your friends.`
 
 Powered by https://api.adviceslip.com/
 
