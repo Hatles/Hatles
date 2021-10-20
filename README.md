@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do a bit more for your friends.`
+`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
 
 Powered by https://api.adviceslip.com/
 
