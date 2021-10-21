@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
