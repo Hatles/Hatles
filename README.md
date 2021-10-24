@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
