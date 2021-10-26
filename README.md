@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
