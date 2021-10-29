@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`Don't always rely on your comforts.`
 
 Powered by https://api.adviceslip.com/
 
