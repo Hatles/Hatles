@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
