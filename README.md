@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Hold the door open for the next person.`
+`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
 
 Powered by https://api.adviceslip.com/
 
