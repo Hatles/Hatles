@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
