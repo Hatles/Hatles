@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
