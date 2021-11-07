@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
