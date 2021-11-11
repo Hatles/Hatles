@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
