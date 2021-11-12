@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Do, or do not. There is no try.`
 
 Powered by https://api.adviceslip.com/
 
