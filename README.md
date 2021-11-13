@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do, or do not. There is no try.`
+`Eat food. Not too much, mostly plants.`
 
 Powered by https://api.adviceslip.com/
 
