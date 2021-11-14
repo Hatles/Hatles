@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
