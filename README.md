@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
