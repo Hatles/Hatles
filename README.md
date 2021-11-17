@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`Don't take life too seriously.`
 
 Powered by https://api.adviceslip.com/
 
