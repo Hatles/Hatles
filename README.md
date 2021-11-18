@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't take life too seriously.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
