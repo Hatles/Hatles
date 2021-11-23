@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Fail. Fail again. Fail better.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
