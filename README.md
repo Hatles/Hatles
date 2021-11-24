@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`Gratitude is said to be the secret to happiness.`
 
 Powered by https://api.adviceslip.com/
 
