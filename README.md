@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Gratitude is said to be the secret to happiness.`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
