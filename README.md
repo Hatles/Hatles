@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's wrong to be right.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
