@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
