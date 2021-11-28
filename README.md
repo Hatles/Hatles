@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
