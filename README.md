@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
