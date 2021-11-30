@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`Things are just things. Don't get too attached to them.`
 
 Powered by https://api.adviceslip.com/
 
