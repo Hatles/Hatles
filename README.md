@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
