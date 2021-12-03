@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
