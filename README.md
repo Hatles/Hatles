@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
