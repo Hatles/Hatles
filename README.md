@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect your elders.`
+`A nod is as good as a wink to a blind horse.`
 
 Powered by https://api.adviceslip.com/
 
