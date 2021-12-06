@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
