@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
