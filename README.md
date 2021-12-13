@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`Gratitude is said to be the secret to happiness.`
 
 Powered by https://api.adviceslip.com/
 
