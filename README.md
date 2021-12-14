@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Gratitude is said to be the secret to happiness.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
