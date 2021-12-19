@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
