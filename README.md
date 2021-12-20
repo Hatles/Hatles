@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Be a good lover.`
 
 Powered by https://api.adviceslip.com/
 
