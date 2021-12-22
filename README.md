@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
