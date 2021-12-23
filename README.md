@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
