@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
