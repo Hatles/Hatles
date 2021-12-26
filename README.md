@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To improve productivity, always have a shittier task to put off.`
+`When you're looking up at birds flying overhead, keep your mouth closed.`
 
 Powered by https://api.adviceslip.com/
 
