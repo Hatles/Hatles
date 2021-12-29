@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
+`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
 
 Powered by https://api.adviceslip.com/
 
