@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Everybody makes mistakes.`
 
 Powered by https://api.adviceslip.com/
 
