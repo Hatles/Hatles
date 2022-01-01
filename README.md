@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everybody makes mistakes.`
+`Never let your Mother cut your hair.`
 
 Powered by https://api.adviceslip.com/
 
