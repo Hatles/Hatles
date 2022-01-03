@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
 
 Powered by https://api.adviceslip.com/
 
