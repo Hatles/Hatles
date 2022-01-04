@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
