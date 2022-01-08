@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
