@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Why wait until valentines day for a romantic gesture?`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
