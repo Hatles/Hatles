@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't judge a book by its cover, unless it has a synopsis on the back.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
