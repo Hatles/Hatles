@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Eat food. Not too much, mostly plants.`
 
 Powered by https://api.adviceslip.com/
 
