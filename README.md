@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
 
 Powered by https://api.adviceslip.com/
 
