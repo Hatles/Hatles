@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
