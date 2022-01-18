@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn from your mistakes.`
+`If you want to be happily married, marry a happy person.`
 
 Powered by https://api.adviceslip.com/
 
