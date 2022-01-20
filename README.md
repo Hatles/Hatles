@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Fail. Fail again. Fail better.`
 
 Powered by https://api.adviceslip.com/
 
