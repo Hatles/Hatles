@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Fail. Fail again. Fail better.`
+`You're not as fat as you think you are.`
 
 Powered by https://api.adviceslip.com/
 
