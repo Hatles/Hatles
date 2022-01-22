@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`A long walk alone with some time to think, can work wonders.`
 
 Powered by https://api.adviceslip.com/
 
