@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A long walk alone with some time to think, can work wonders.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
