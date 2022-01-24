@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
