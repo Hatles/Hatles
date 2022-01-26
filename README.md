@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never pay full price for a sofa at DFS.`
+`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
 
 Powered by https://api.adviceslip.com/
 
