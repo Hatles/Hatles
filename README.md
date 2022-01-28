@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
