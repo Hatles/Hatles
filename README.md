@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never cut your own fringe.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
