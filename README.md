@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't judge a book by its cover, unless it has a synopsis on the back.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
