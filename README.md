@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
 
 Powered by https://api.adviceslip.com/
 
