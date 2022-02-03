@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
