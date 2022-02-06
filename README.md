@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
