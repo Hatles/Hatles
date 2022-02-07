@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`Turn jeans inside out when washing them to help preserve their colour.`
 
 Powered by https://api.adviceslip.com/
 
