@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Turn jeans inside out when washing them to help preserve their colour.`
+`If your hair is thinning, try dying your hair a similar tone to your scalp.`
 
 Powered by https://api.adviceslip.com/
 
