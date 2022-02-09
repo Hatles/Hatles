@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If your hair is thinning, try dying your hair a similar tone to your scalp.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
