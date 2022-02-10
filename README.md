@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Never let your Mother cut your hair.`
 
 Powered by https://api.adviceslip.com/
 
