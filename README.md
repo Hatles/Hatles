@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never let your Mother cut your hair.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
