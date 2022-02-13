@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You have as many hours in a day as the people you admire most.`
+`The hardest things to say are usually the most important.`
 
 Powered by https://api.adviceslip.com/
 
