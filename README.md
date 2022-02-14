@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The hardest things to say are usually the most important.`
+`Cars are bad investments.`
 
 Powered by https://api.adviceslip.com/
 
