@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Cars are bad investments.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
