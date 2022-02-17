@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.`
 
 Powered by https://api.adviceslip.com/
 
