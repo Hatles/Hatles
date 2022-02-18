@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.`
+`When something goes wrong in life, just shout "plot twist!" and carry on.`
 
 Powered by https://api.adviceslip.com/
 
