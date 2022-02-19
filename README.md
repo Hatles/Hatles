@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When something goes wrong in life, just shout "plot twist!" and carry on.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
