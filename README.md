@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
