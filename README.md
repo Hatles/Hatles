@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
