@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Life can be a lot more interesting inside your head.`
 
 Powered by https://api.adviceslip.com/
 
