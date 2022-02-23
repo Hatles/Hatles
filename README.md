@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`Try making a list.`
 
 Powered by https://api.adviceslip.com/
 
