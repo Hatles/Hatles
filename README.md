@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try making a list.`
+`Don't give to others advice which you wouldn't follow.`
 
 Powered by https://api.adviceslip.com/
 
