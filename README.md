@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give to others advice which you wouldn't follow.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
