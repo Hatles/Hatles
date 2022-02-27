@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.`
+`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
 
 Powered by https://api.adviceslip.com/
 
