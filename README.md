@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes, you just need to say sorry. Even if it's not your fault.`
+`When painting a room, preparation is key. The actual painting should account for about 40% of the work.`
 
 Powered by https://api.adviceslip.com/
 
