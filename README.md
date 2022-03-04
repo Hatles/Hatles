@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things look better when you put them in a circle.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
