@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never waste an opportunity to tell someone you love them.`
+`Don't promise what you can't deliver.`
 
 Powered by https://api.adviceslip.com/
 
