@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't promise what you can't deliver.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
