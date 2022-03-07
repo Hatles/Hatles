@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
