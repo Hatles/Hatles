@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Look people in the eye.`
+`Don't always believe what you think.`
 
 Powered by https://api.adviceslip.com/
 
