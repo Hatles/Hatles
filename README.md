@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always believe what you think.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
