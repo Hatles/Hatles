@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid to ask questions.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
