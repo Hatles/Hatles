@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Why wait until valentines day for a romantic gesture?`
+`Try buying a coffee for the creator of a free public API, now and then.`
 
 Powered by https://api.adviceslip.com/
 
