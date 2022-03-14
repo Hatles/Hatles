@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A problem shared is a problem halved.`
+`Repeat people's names when you meet them.`
 
 Powered by https://api.adviceslip.com/
 
