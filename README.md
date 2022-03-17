@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
