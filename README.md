@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Big things have small beginnings.`
 
 Powered by https://api.adviceslip.com/
 
