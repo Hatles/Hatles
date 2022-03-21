@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Big things have small beginnings.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
