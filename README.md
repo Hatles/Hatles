@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`Identify sources of happiness.`
 
 Powered by https://api.adviceslip.com/
 
