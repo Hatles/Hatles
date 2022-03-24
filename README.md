@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`What could you increase? What could you reduce?`
 
 Powered by https://api.adviceslip.com/
 
