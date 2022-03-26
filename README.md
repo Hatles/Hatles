@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
