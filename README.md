@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
+`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
 
 Powered by https://api.adviceslip.com/
 
