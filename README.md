@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
