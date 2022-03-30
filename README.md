@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it still itches after a week, go to the doctors.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
