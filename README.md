@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`Most things look better when you put them in a circle.`
 
 Powered by https://api.adviceslip.com/
 
