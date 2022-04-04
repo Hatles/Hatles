@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good advice is something a man gives when he is too old to set a bad example.`
+`If you don't ask, you don't get.`
 
 Powered by https://api.adviceslip.com/
 
