@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`No one knows anyone else in the way you do.`
 
 Powered by https://api.adviceslip.com/
 
