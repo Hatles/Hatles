@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No one knows anyone else in the way you do.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
