@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
