@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
