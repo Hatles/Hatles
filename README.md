@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
