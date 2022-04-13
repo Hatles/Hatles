@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.`
+`Good things come to those who wait.`
 
 Powered by https://api.adviceslip.com/
 
