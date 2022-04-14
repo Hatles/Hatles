@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good things come to those who wait.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
