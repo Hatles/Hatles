@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
