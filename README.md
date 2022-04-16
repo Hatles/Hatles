@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`Try making a list.`
 
 Powered by https://api.adviceslip.com/
 
