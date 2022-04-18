@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`Good things come to those who wait.`
 
 Powered by https://api.adviceslip.com/
 
