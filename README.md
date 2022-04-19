@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good things come to those who wait.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
