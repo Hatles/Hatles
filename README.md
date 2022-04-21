@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`Most things done in secrecy are better left undone.`
 
 Powered by https://api.adviceslip.com/
 
