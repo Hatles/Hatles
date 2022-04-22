@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things done in secrecy are better left undone.`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
