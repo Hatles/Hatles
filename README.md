@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`A common regret in life is wishing one hadn't worked so hard.`
 
 Powered by https://api.adviceslip.com/
 
