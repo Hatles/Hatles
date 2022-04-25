@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one hadn't worked so hard.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
