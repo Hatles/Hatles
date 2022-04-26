@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Why wait until valentines day for a romantic gesture?`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
