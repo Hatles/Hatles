@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Share positive energy.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
