@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
