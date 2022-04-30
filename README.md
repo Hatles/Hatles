@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
