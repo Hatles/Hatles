@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Never let your Mother cut your hair.`
 
 Powered by https://api.adviceslip.com/
 
