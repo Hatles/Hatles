@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never let your Mother cut your hair.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
