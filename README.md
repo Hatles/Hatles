@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
