@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
