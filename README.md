@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
