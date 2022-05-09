@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
