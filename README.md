@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's wrong to be right.`
+`Everyone has their down days. Don't take it out on innocent bystanders.`
 
 Powered by https://api.adviceslip.com/
 
