@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
