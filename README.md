@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
 
 Powered by https://api.adviceslip.com/
 
