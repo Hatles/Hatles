@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
