@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`If you've nothing nice to say, say nothing.`
 
 Powered by https://api.adviceslip.com/
 
