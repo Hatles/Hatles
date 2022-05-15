@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
