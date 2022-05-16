@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
