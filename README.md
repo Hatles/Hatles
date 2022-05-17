@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
