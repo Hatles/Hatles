@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn from your mistakes.`
+`Sometimes it's best to ignore other people's advice.`
 
 Powered by https://api.adviceslip.com/
 
