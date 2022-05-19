@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes it's best to ignore other people's advice.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
