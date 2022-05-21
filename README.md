@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When something goes wrong in life, just shout "plot twist!" and carry on.`
+`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
 
 Powered by https://api.adviceslip.com/
 
