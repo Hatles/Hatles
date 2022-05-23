@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`Most things are not as bad as you think they are.`
 
 Powered by https://api.adviceslip.com/
 
