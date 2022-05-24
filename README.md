@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
