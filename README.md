@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
