@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Your smile could make someone's day, don't forget to wear it.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
