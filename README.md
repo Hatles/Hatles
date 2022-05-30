@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
+`Don't be afraid of silly ideas.`
 
 Powered by https://api.adviceslip.com/
 
