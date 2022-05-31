@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid of silly ideas.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
