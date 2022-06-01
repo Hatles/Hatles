@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
