@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
