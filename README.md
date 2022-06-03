@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
