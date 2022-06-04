@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`Tell it like it is.`
 
 Powered by https://api.adviceslip.com/
 
