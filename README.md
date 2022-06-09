@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Only those who attempt the impossible can achieve the absurd.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
