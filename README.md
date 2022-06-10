@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
