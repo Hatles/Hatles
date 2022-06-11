@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`If you get stuck, try doing the opposite of what the solution requires.`
 
 Powered by https://api.adviceslip.com/
 
