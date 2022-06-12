@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
