@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
