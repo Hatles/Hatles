@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
+`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
 
 Powered by https://api.adviceslip.com/
 
