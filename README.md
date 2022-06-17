@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
