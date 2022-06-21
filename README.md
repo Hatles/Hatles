@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give to others advice which you wouldn't follow.`
+`Never let your Mother cut your hair.`
 
 Powered by https://api.adviceslip.com/
 
