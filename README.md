@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never let your Mother cut your hair.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
