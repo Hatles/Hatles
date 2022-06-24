@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
