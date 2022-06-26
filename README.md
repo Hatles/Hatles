@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`What's stopping you?`
 
 Powered by https://api.adviceslip.com/
 
