@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
