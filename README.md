@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think nobody cares if you're alive, try missing a few payments.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
