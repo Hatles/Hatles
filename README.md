@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
