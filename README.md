@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
 
 Powered by https://api.adviceslip.com/
 
