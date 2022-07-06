@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
