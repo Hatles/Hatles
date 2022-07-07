@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run with scissors.`
+`Gratitude is said to be the secret to happiness.`
 
 Powered by https://api.adviceslip.com/
 
