@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Gratitude is said to be the secret to happiness.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
