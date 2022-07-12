@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Quality beats quantity.`
 
 Powered by https://api.adviceslip.com/
 
