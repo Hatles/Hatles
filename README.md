@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Quality beats quantity.`
+`Always seek out advice or opinions when making a decision.`
 
 Powered by https://api.adviceslip.com/
 
