@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
 
 Powered by https://api.adviceslip.com/
 
