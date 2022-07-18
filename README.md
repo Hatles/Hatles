@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
