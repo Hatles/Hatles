@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
