@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
