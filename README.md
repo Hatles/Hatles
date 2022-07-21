@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Look people in the eye.`
+`Never write in an email to someone, something which you wouldn't say to that person's face.`
 
 Powered by https://api.adviceslip.com/
 
