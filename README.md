@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
