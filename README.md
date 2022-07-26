@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When something goes wrong in life, just shout "plot twist!" and carry on.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
