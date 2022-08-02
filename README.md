@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When something goes wrong in life, just shout "plot twist!" and carry on.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
