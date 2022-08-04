@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes, you just need to say sorry. Even if it's not your fault.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
