@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Quality beats quantity.`
+`Try going commando to an important meeting, NB: don't wear a skirt.`
 
 Powered by https://api.adviceslip.com/
 
