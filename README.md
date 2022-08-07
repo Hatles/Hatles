@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try going commando to an important meeting, NB: don't wear a skirt.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
