@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
