@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
