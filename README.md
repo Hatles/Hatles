@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`Most things are not as bad as you think they are.`
 
 Powered by https://api.adviceslip.com/
 
