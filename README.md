@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
