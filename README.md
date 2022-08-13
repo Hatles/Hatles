@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Don't wear clean trousers when walking your dog in the park.`
 
 Powered by https://api.adviceslip.com/
 
