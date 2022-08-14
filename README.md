@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
