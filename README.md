@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
