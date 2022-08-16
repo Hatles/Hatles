@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`If you're going bald, don't comb your hair over your bald patch.`
 
 Powered by https://api.adviceslip.com/
 
