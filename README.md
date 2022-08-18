@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
