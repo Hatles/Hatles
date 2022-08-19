@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
