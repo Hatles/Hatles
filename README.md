@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
