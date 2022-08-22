@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`Repeat people's names when you meet them.`
 
 Powered by https://api.adviceslip.com/
 
