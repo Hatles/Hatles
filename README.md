@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Repeat people's names when you meet them.`
+`When you're looking up at birds flying overhead, keep your mouth closed.`
 
 Powered by https://api.adviceslip.com/
 
