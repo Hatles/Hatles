@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
