@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
 
 Powered by https://api.adviceslip.com/
 
