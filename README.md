@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
+`Good things come to those who wait.`
 
 Powered by https://api.adviceslip.com/
 
