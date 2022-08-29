@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good things come to those who wait.`
+`No one knows anyone else in the way you do.`
 
 Powered by https://api.adviceslip.com/
 
