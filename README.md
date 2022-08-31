@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
+`If your hair is thinning, try dying your hair a similar tone to your scalp.`
 
 Powered by https://api.adviceslip.com/
 
