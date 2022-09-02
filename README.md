@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't drink bleach.`
+`Life can be a lot more interesting inside your head.`
 
 Powered by https://api.adviceslip.com/
 
