@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`If you're going bald, don't comb your hair over your bald patch.`
 
 Powered by https://api.adviceslip.com/
 
