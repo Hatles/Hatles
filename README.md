@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`It's unlucky to be superstitious.`
 
 Powered by https://api.adviceslip.com/
 
