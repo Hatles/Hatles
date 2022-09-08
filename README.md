@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
