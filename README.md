@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's unlucky to be superstitious.`
+`Some of life's best lessons are learnt at the worst times.`
 
 Powered by https://api.adviceslip.com/
 
