@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some of life's best lessons are learnt at the worst times.`
+`Once in a while, eat some sweets you used to enjoy when you were younger.`
 
 Powered by https://api.adviceslip.com/
 
