@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Once in a while, eat some sweets you used to enjoy when you were younger.`
+`Accentuate the positive, eliminate the negative.`
 
 Powered by https://api.adviceslip.com/
 
