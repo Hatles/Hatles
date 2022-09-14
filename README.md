@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accentuate the positive, eliminate the negative.`
+`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
 
 Powered by https://api.adviceslip.com/
 
