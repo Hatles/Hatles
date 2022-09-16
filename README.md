@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`If you don't want something to be public, don't post it on the Internet.`
 
 Powered by https://api.adviceslip.com/
 
