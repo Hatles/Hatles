@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
