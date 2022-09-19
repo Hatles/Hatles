@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
