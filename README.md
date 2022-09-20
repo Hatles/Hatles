@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`Being kind is more rewarding than being right.`
 
 Powered by https://api.adviceslip.com/
 
