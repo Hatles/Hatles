@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
