@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
