@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things look better when you put them in a circle.`
+`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
 
 Powered by https://api.adviceslip.com/
 
