@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
