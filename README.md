@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
