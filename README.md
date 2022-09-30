@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`Respect other people's opinions, even when they differ from your own.`
 
 Powered by https://api.adviceslip.com/
 
