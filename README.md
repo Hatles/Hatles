@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect other people's opinions, even when they differ from your own.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
