@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
 
 Powered by https://api.adviceslip.com/
 
