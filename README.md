@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accentuate the positive, eliminate the negative.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
