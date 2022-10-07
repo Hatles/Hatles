@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
