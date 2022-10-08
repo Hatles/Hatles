@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
