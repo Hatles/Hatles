@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`Some people would be better off if they took their own advice.`
 
 Powered by https://api.adviceslip.com/
 
