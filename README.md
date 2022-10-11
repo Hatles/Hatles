@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
 
 Powered by https://api.adviceslip.com/
 
