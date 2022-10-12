@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
