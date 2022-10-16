@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`You will always regret the round of JÃ¤germeister.`
 
 Powered by https://api.adviceslip.com/
 
