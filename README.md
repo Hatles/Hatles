@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never set an alarm clock unless you know how to switch it off`
+`Most things are not as bad as you think they are.`
 
 Powered by https://api.adviceslip.com/
 
