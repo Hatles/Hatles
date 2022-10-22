@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
