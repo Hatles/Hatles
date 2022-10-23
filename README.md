@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always double check you actually attached the file to the email.`
+`You will always regret the round of JÃ¤germeister.`
 
 Powered by https://api.adviceslip.com/
 
