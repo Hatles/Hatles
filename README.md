@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of JÃ¤germeister.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
