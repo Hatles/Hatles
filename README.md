@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
