@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Quality beats quantity.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
