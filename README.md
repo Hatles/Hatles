@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
