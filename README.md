@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The more ideas that you give away, the more ideas that will come to you.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
