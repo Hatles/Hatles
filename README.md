@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
+`Never write in an email to someone, something which you wouldn't say to that person's face.`
 
 Powered by https://api.adviceslip.com/
 
