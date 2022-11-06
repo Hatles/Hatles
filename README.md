@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Turn jeans inside out when washing them to help preserve their colour.`
 
 Powered by https://api.adviceslip.com/
 
