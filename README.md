@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's always the quiet ones.`
+`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
 
 Powered by https://api.adviceslip.com/
 
