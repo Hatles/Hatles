@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
+`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
 
 Powered by https://api.adviceslip.com/
 
