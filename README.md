@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
+`Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.`
 
 Powered by https://api.adviceslip.com/
 
