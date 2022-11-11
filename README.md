@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words â€˜Kind of,' â€˜Sort of' or â€˜Maybe.' It either is or it isn't.`
+`Once you find a really good friend don't do anything that could mess up your friendship.`
 
 Powered by https://api.adviceslip.com/
 
