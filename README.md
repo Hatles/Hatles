@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
