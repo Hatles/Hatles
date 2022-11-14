@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
