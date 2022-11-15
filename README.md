@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always the burrito.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
