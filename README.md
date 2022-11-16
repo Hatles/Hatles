@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`If you don't ask, you don't get.`
 
 Powered by https://api.adviceslip.com/
 
