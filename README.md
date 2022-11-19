@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's wrong to be right.`
+`Fail. Fail again. Fail better.`
 
 Powered by https://api.adviceslip.com/
 
