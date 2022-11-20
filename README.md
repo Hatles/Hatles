@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Fail. Fail again. Fail better.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
