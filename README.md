@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Once in a while, eat some sweets you used to enjoy when you were younger.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
