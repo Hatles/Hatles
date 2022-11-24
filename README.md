@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`Don't judge a book by its cover, unless it has a synopsis on the back.`
 
 Powered by https://api.adviceslip.com/
 
