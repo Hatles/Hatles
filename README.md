@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`True happiness always resides in the quest.`
+`Try buying a coffee for the creator of a free public API, now and then.`
 
 Powered by https://api.adviceslip.com/
 
