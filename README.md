@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
 
 Powered by https://api.adviceslip.com/
 
