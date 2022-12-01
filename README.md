@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
