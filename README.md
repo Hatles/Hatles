@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`If you are ever in doubt about whether or not to wash your hair: Wash it.`
 
 Powered by https://api.adviceslip.com/
 
