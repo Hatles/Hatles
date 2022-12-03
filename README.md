@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
 
 Powered by https://api.adviceslip.com/
 
