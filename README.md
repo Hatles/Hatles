@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
+`Respect other people's opinions, even when they differ from your own.`
 
 Powered by https://api.adviceslip.com/
 
