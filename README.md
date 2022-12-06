@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.`
+`Don't use Excel or Powerpoint documents for your basic word processing needs.`
 
 Powered by https://api.adviceslip.com/
 
