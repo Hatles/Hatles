@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Keep it simple.`
+`Being kind is more rewarding than being right.`
 
 Powered by https://api.adviceslip.com/
 
