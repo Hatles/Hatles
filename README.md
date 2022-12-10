@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
