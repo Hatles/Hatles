@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
