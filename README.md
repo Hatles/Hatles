@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Winter is coming.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
