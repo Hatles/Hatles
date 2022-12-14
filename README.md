@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Enjoy a little nonsense now and then.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
