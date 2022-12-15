@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`If you want to be happily married, marry a happy person.`
 
 Powered by https://api.adviceslip.com/
 
