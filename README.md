@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you want to be happily married, marry a happy person.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
