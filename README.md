@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
