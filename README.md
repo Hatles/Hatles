@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
 
 Powered by https://api.adviceslip.com/
 
