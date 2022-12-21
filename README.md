@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
