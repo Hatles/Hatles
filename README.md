@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't take it personally.`
+`Visitors are like fish: As much as you might like them, after three days they start to smell.`
 
 Powered by https://api.adviceslip.com/
 
