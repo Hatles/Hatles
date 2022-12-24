@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Visitors are like fish: As much as you might like them, after three days they start to smell.`
+`If it ain't broke don't fix it.`
 
 Powered by https://api.adviceslip.com/
 
