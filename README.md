@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
