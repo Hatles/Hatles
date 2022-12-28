@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never cut your own fringe.`
+`You will always regret the round of Tequila.`
 
 Powered by https://api.adviceslip.com/
 
