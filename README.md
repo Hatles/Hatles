@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of Tequila.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
