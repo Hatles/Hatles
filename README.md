@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it still itches after a week, go to the doctors.`
+`Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.`
 
 Powered by https://api.adviceslip.com/
 
