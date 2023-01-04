@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
