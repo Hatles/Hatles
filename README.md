@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
