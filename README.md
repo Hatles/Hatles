@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always double check you actually attached the file to the email.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
