@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`YOLO`
+`Accentuate the positive, eliminate the negative.`
 
 Powered by https://api.adviceslip.com/
 
