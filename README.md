@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accentuate the positive, eliminate the negative.`
+`Some people would be better off if they took their own advice.`
 
 Powered by https://api.adviceslip.com/
 
