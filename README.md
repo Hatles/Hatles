@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`If your hair is thinning, try dying your hair a similar tone to your scalp.`
 
 Powered by https://api.adviceslip.com/
 
