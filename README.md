@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If your hair is thinning, try dying your hair a similar tone to your scalp.`
+`Stop using the term "busy" as an excuse.`
 
 Powered by https://api.adviceslip.com/
 
