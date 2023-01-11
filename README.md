@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop using the term "busy" as an excuse.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
