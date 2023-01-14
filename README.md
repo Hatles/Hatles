@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
