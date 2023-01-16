@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Age is of no importance, unless you are a cheese.`
+`If you've nothing nice to say, say nothing.`
 
 Powered by https://api.adviceslip.com/
 
