@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`Don't take life too seriously.`
 
 Powered by https://api.adviceslip.com/
 
