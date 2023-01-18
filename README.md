@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't take life too seriously.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
