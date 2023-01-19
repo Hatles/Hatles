@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Enjoy a little nonsense now and then.`
+`You will always regret the round of Tequila.`
 
 Powered by https://api.adviceslip.com/
 
