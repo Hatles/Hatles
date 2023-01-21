@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
