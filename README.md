@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Give up your seat for someone who needs it.`
+`A common regret in life is wishing one hadn't worked so hard.`
 
 Powered by https://api.adviceslip.com/
 
