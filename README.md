@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one hadn't worked so hard.`
+`Age is of no importance, unless you are a cheese.`
 
 Powered by https://api.adviceslip.com/
 
