@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Age is of no importance, unless you are a cheese.`
+`You will always regret the round of JÃ¤germeister.`
 
 Powered by https://api.adviceslip.com/
 
