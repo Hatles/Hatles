@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of JÃ¤germeister.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
