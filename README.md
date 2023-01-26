@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
