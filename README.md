@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn from your mistakes.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
