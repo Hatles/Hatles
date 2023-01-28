@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`The most important thing is the thing most easily forgotten.`
 
 Powered by https://api.adviceslip.com/
 
