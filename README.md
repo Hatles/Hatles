@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
