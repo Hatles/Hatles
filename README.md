@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
