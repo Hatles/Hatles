@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it still itches after a week, go to the doctors.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
