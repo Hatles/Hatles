@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`Don't always rely on your comforts.`
 
 Powered by https://api.adviceslip.com/
 
