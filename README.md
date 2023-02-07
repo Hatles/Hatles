@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
