@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.`
 
 Powered by https://api.adviceslip.com/
 
