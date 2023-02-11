@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
