@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Everyone has their down days. Don't take it out on innocent bystanders.`
 
 Powered by https://api.adviceslip.com/
 
