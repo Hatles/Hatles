@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
