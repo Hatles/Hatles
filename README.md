@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
