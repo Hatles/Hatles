@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's always the quiet ones.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
