@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
