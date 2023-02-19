@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
 
 Powered by https://api.adviceslip.com/
 
