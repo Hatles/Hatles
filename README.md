@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never pay full price for a sofa at DFS.`
+`Stop using the term "busy" as an excuse.`
 
 Powered by https://api.adviceslip.com/
 
