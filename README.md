@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop using the term "busy" as an excuse.`
+`If you don't like the opinion you've been given, get another one.`
 
 Powered by https://api.adviceslip.com/
 
