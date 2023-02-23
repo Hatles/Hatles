@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
