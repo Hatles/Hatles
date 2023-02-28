@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't try and bump start a motorcycle on an icy road.`
+`Remember that spiders are more afraid of you, than you are of them.`
 
 Powered by https://api.adviceslip.com/
 
