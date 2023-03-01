@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remember that spiders are more afraid of you, than you are of them.`
+`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
 
 Powered by https://api.adviceslip.com/
 
