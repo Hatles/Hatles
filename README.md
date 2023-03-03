@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
