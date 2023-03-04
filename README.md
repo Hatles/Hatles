@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Look people in the eye.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
