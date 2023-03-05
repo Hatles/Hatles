@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
 
 Powered by https://api.adviceslip.com/
 
