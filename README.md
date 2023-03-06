@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
