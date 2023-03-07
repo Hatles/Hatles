@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
