@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`Don't take it personally.`
 
 Powered by https://api.adviceslip.com/
 
