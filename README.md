@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
