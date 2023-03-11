@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
