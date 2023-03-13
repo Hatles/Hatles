@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`No one knows anyone else in the way you do.`
 
 Powered by https://api.adviceslip.com/
 
