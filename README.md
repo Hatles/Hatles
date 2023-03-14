@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No one knows anyone else in the way you do.`
+`Stop procrastinating.`
 
 Powered by https://api.adviceslip.com/
 
