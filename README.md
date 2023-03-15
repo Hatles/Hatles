@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop procrastinating.`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
