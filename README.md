@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Share positive energy.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
