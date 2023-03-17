@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
