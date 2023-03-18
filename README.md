@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn from your mistakes.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
