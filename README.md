@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A problem shared is a problem halved.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
