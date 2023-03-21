@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
