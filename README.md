@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's always the quiet ones.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
