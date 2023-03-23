@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
