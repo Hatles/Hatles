@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
