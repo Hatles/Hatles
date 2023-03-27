@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
