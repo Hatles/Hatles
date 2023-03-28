@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
