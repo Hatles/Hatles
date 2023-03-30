@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
