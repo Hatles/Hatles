@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
