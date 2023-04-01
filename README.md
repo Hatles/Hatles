@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
