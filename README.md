@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
