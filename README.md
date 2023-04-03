@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
