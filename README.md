@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`You're not as fat as you think you are.`
 
 Powered by https://api.adviceslip.com/
 
