@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
