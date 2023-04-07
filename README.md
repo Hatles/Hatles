@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`Most things are not as bad as you think they are.`
 
 Powered by https://api.adviceslip.com/
 
