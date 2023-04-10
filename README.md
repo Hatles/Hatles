@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
