@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
