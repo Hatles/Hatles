@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
