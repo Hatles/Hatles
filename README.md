@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn from your mistakes.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
