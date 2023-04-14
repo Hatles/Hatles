@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not compare yourself with others.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
