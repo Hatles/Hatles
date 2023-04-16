@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
