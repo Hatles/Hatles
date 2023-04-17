@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect your elders.`
+`If you don't ask, you don't get.`
 
 Powered by https://api.adviceslip.com/
 
