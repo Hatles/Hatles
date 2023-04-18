@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
