@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Gratitude is said to be the secret to happiness.`
 
 Powered by https://api.adviceslip.com/
 
