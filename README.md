@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's unlucky to be superstitious.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
