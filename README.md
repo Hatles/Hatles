@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
 
 Powered by https://api.adviceslip.com/
 
