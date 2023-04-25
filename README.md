@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
+`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
 
 Powered by https://api.adviceslip.com/
 
