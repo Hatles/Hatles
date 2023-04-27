@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
