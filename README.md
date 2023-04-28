@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`Don't wear clean trousers when walking your dog in the park.`
 
 Powered by https://api.adviceslip.com/
 
