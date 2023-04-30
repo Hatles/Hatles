@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
