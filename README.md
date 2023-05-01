@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
