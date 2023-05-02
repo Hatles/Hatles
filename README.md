@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`YOLO`
+`Tell it like it is.`
 
 Powered by https://api.adviceslip.com/
 
