@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Tell it like it is.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
