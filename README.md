@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
