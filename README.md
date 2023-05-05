@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`You're not as fat as you think you are.`
 
 Powered by https://api.adviceslip.com/
 
