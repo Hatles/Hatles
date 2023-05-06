@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
