@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always double check you actually attached the file to the email.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
