@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You have as many hours in a day as the people you admire most.`
+`Once in a while, eat some sweets you used to enjoy when you were younger.`
 
 Powered by https://api.adviceslip.com/
 
