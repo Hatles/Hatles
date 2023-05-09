@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Once in a while, eat some sweets you used to enjoy when you were younger.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
