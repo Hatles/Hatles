@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
 
 Powered by https://api.adviceslip.com/
 
