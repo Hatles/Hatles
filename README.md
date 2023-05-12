@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
