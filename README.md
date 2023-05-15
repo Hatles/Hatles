@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Taking photos with tablet devices looks weird.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
