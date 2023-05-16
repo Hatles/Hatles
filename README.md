@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
