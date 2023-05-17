@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`Some of life's best lessons are learnt at the worst times.`
 
 Powered by https://api.adviceslip.com/
 
