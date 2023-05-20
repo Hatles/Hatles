@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not compare yourself with others.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
