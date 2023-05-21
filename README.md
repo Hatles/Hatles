@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
