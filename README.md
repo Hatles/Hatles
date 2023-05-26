@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`For every complex problem there is an answer that is clear, simple, and wrong.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
