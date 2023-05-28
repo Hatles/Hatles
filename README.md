@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
