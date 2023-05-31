@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`A common regret in life is wishing one hadn't worked so hard.`
 
 Powered by https://api.adviceslip.com/
 
