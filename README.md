@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What's stopping you?`
+`Try making a list.`
 
 Powered by https://api.adviceslip.com/
 
