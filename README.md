@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try making a list.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
