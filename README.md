@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you want to be happily married, marry a happy person.`
+`Try to do the things that you're incapable of.`
 
 Powered by https://api.adviceslip.com/
 
