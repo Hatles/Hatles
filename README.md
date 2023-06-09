@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Cars are bad investments.`
+`When you look around and don't see anyone you respect, its time to leave.`
 
 Powered by https://api.adviceslip.com/
 
