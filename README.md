@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you look around and don't see anyone you respect, its time to leave.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
