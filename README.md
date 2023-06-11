@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
