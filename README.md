@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Enjoy a little nonsense now and then.`
+`Good things come to those who wait.`
 
 Powered by https://api.adviceslip.com/
 
