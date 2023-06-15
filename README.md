@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
