@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A problem shared is a problem halved.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
