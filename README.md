@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
