@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`You're not as fat as you think you are.`
 
 Powered by https://api.adviceslip.com/
 
