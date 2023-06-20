@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
 
 Powered by https://api.adviceslip.com/
 
