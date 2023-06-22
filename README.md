@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What's stopping you?`
+`Only those who attempt the impossible can achieve the absurd.`
 
 Powered by https://api.adviceslip.com/
 
