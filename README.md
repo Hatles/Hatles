@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everybody makes mistakes.`
+`Life can be a lot more interesting inside your head.`
 
 Powered by https://api.adviceslip.com/
 
