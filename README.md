@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
