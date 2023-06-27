@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect other people's opinions, even when they differ from your own.`
+`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
 
 Powered by https://api.adviceslip.com/
 
