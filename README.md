@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do a bit more for your friends.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
