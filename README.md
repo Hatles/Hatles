@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
