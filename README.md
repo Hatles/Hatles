@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
+`One of the top five regrets people have is that they didn't stay in contact with friends.`
 
 Powered by https://api.adviceslip.com/
 
