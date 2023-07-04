@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Do, or do not. There is no try.`
 
 Powered by https://api.adviceslip.com/
 
