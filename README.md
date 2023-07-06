@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you want to be happily married, marry a happy person.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
