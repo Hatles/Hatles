@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`Fail. Fail again. Fail better.`
 
 Powered by https://api.adviceslip.com/
 
