@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
+`The more ideas that you give away, the more ideas that will come to you.`
 
 Powered by https://api.adviceslip.com/
 
