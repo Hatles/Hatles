@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The more ideas that you give away, the more ideas that will come to you.`
+`Eat food. Not too much, mostly plants.`
 
 Powered by https://api.adviceslip.com/
 
