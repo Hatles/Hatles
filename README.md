@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
