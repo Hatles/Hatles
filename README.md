@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Give up your seat for someone who needs it.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
