@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
