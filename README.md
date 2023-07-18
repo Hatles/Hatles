@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Build something out of LEGO.`
+`Never set an alarm clock unless you know how to switch it off`
 
 Powered by https://api.adviceslip.com/
 
