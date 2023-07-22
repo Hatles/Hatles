@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give to others advice which you wouldn't follow.`
+`Brush your teeth the moment you get up.`
 
 Powered by https://api.adviceslip.com/
 
