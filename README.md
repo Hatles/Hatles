@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
