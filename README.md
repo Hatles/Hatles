@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Your smile could make someone's day, don't forget to wear it.`
+`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
 
 Powered by https://api.adviceslip.com/
 
