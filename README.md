@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
+`Things are just things. Don't get too attached to them.`
 
 Powered by https://api.adviceslip.com/
 
