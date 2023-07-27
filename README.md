@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Things are just things. Don't get too attached to them.`
+`Keep it simple.`
 
 Powered by https://api.adviceslip.com/
 
