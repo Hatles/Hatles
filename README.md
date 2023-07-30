@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Turn jeans inside out when washing them to help preserve their colour.`
+`Try making a list.`
 
 Powered by https://api.adviceslip.com/
 
