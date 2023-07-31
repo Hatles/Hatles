@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try making a list.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
