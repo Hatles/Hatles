@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
