@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Hold the door open for the next person.`
+`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
 
 Powered by https://api.adviceslip.com/
 
