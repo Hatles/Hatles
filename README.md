@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
+`Once you find a really good friend don't do anything that could mess up your friendship.`
 
 Powered by https://api.adviceslip.com/
 
