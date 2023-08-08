@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Big things have small beginnings.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
