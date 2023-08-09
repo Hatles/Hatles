@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
