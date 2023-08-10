@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
