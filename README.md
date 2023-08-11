@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accept advice.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
