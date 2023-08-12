@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
