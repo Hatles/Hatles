@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
