@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
