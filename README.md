@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you look around and don't see anyone you respect, its time to leave.`
+`Don't use Excel or Powerpoint documents for your basic word processing needs.`
 
 Powered by https://api.adviceslip.com/
 
