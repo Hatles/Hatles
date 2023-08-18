@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't use Excel or Powerpoint documents for your basic word processing needs.`
+`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
 
 Powered by https://api.adviceslip.com/
 
