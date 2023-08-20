@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never let your Mother cut your hair.`
+`Brush your teeth the moment you get up.`
 
 Powered by https://api.adviceslip.com/
 
