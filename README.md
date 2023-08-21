@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
