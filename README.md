@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
