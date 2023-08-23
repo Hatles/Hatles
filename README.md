@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A problem shared is a problem halved.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
