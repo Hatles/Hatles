@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
