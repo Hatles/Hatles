@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not compare yourself with others.`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
