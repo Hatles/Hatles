@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Share positive energy.`
+`Only those who attempt the impossible can achieve the absurd.`
 
 Powered by https://api.adviceslip.com/
 
