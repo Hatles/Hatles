@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
