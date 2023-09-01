@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`Keep it simple.`
 
 Powered by https://api.adviceslip.com/
 
