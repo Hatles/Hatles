@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
