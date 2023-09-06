@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect other people's opinions, even when they differ from your own.`
+`If you want to be happily married, marry a happy person.`
 
 Powered by https://api.adviceslip.com/
 
