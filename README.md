@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good advice is something a man gives when he is too old to set a bad example.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
