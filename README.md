@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Exercise in the rain can really make you feel alive.`
 
 Powered by https://api.adviceslip.com/
 
