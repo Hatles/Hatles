@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`Identify sources of happiness.`
 
 Powered by https://api.adviceslip.com/
 
