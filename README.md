@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
