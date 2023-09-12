@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
