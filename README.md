@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`If you can't do anything about it, there's no point in worrying about it.`
 
 Powered by https://api.adviceslip.com/
 
