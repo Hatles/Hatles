@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn to handle criticism.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
