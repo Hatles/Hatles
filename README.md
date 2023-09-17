@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`Never set an alarm clock unless you know how to switch it off`
 
 Powered by https://api.adviceslip.com/
 
