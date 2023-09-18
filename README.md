@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never set an alarm clock unless you know how to switch it off`
+`Things are just things. Don't get too attached to them.`
 
 Powered by https://api.adviceslip.com/
 
