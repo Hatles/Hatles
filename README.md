@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
