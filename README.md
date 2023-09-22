@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
