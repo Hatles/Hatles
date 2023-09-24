@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Big things have small beginnings.`
+`Don't give to others advice which you wouldn't follow.`
 
 Powered by https://api.adviceslip.com/
 
