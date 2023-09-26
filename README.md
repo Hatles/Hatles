@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The hardest things to say are usually the most important.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
