@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
