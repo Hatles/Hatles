@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
