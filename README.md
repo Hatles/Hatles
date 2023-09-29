@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Remember that spiders are more afraid of you, than you are of them.`
 
 Powered by https://api.adviceslip.com/
 
