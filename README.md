@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remember that spiders are more afraid of you, than you are of them.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
