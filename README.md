@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Winter is coming.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
