@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
