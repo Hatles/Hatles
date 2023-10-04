@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never write in an email to someone, something which you wouldn't say to that person's face.`
+`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
 
 Powered by https://api.adviceslip.com/
 
