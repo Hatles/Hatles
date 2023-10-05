@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
