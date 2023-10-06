@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
