@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`Never set an alarm clock unless you know how to switch it off`
 
 Powered by https://api.adviceslip.com/
 
