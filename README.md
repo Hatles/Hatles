@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never set an alarm clock unless you know how to switch it off`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
