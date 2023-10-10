@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`Everybody makes mistakes.`
 
 Powered by https://api.adviceslip.com/
 
