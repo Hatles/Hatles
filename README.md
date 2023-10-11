@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everybody makes mistakes.`
+`Exercise in the rain can really make you feel alive.`
 
 Powered by https://api.adviceslip.com/
 
