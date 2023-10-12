@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
