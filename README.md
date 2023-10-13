@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
