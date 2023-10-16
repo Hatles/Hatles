@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't judge a book by its cover, unless it has a synopsis on the back.`
+`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
 
 Powered by https://api.adviceslip.com/
 
