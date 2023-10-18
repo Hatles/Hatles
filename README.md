@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
