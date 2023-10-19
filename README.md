@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`Don't try and bump start a motorcycle on an icy road.`
 
 Powered by https://api.adviceslip.com/
 
