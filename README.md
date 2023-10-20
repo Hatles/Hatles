@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't try and bump start a motorcycle on an icy road.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
