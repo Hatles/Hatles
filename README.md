@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
