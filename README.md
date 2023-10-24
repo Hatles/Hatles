@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
+`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
 
 Powered by https://api.adviceslip.com/
 
