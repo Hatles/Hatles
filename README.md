@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`A long walk alone with some time to think, can work wonders.`
 
 Powered by https://api.adviceslip.com/
 
