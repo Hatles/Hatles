@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A long walk alone with some time to think, can work wonders.`
+`Don't be afraid of silly ideas.`
 
 Powered by https://api.adviceslip.com/
 
