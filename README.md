@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`For every complex problem there is an answer that is clear, simple, and wrong.`
+`If it ain't broke don't fix it.`
 
 Powered by https://api.adviceslip.com/
 
