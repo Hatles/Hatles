@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it ain't broke don't fix it.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
