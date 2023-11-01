@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
+`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
 
 Powered by https://api.adviceslip.com/
 
