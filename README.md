@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`If you want to be happily married, marry a happy person.`
 
 Powered by https://api.adviceslip.com/
 
