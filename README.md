@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you want to be happily married, marry a happy person.`
+`Don't judge a book by its cover, unless it has a synopsis on the back.`
 
 Powered by https://api.adviceslip.com/
 
