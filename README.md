@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't judge a book by its cover, unless it has a synopsis on the back.`
+`A nod is as good as a wink to a blind horse.`
 
 Powered by https://api.adviceslip.com/
 
