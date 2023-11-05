@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Things are just things. Don't get too attached to them.`
 
 Powered by https://api.adviceslip.com/
 
