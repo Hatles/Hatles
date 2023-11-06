@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Things are just things. Don't get too attached to them.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
