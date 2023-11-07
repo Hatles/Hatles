@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
