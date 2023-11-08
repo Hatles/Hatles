@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Don't judge a book by its cover, unless it has a synopsis on the back.`
 
 Powered by https://api.adviceslip.com/
 
