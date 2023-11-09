@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't judge a book by its cover, unless it has a synopsis on the back.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
