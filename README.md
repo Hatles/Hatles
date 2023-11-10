@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`Vinegar is a powerful cleaning agent.`
 
 Powered by https://api.adviceslip.com/
 
