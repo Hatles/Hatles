@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
