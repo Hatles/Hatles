@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Build something out of LEGO.`
 
 Powered by https://api.adviceslip.com/
 
