@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Build something out of LEGO.`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
