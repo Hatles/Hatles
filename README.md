@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn to handle criticism.`
+`Do a bit more for your friends.`
 
 Powered by https://api.adviceslip.com/
 
