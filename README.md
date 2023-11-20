@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Build something out of LEGO.`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
