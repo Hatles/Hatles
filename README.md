@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's wrong to be right.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
