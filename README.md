@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always believe what you think.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
