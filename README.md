@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
