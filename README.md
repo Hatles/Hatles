@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Enjoy a little nonsense now and then.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
