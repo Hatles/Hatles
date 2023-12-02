@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
