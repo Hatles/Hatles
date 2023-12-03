@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
