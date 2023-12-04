@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
