@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`It's not about who likes you, it's about who you like.`
 
 Powered by https://api.adviceslip.com/
 
