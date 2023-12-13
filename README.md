@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's not about who likes you, it's about who you like.`
+`You're not as fat as you think you are.`
 
 Powered by https://api.adviceslip.com/
 
