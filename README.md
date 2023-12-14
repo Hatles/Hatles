@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`Don't ever name files or folders using the word "Final".`
 
 Powered by https://api.adviceslip.com/
 
