@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Gratitude is said to be the secret to happiness.`
+`Don't try and bump start a motorcycle on an icy road.`
 
 Powered by https://api.adviceslip.com/
 
