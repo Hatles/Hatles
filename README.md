@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't try and bump start a motorcycle on an icy road.`
+`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
 
 Powered by https://api.adviceslip.com/
 
