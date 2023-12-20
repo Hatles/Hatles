@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
+`Visitors are like fish: As much as you might like them, after three days they start to smell.`
 
 Powered by https://api.adviceslip.com/
 
