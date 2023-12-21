@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Visitors are like fish: As much as you might like them, after three days they start to smell.`
+`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
 
 Powered by https://api.adviceslip.com/
 
