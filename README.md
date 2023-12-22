@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
+`No one knows anyone else in the way you do.`
 
 Powered by https://api.adviceslip.com/
 
