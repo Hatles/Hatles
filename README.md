@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No one knows anyone else in the way you do.`
+`Sometimes it's best to ignore other people's advice.`
 
 Powered by https://api.adviceslip.com/
 
