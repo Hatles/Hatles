@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes it's best to ignore other people's advice.`
+`Good advice is something a man gives when he is too old to set a bad example.`
 
 Powered by https://api.adviceslip.com/
 
