@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good advice is something a man gives when he is too old to set a bad example.`
+`Be a good lover.`
 
 Powered by https://api.adviceslip.com/
 
