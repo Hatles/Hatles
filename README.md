@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be a good lover.`
+`If it ain't broke don't fix it.`
 
 Powered by https://api.adviceslip.com/
 
