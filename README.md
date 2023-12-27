@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it ain't broke don't fix it.`
+`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
 
 Powered by https://api.adviceslip.com/
 
