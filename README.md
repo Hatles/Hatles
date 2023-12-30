@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
