@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
