@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
