@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
+`Build something out of LEGO.`
 
 Powered by https://api.adviceslip.com/
 
