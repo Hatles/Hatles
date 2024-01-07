@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
