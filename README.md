@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
