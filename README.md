@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
