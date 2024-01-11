@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's always the quiet ones.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
