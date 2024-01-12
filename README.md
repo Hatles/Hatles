@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
