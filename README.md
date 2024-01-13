@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never cut your own fringe.`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
