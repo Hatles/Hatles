@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
 
 Powered by https://api.adviceslip.com/
 
