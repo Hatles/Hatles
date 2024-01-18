@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
