@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
