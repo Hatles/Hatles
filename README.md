@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always the burrito.`
+`Tell it like it is.`
 
 Powered by https://api.adviceslip.com/
 
