@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Sometimes it's best to ignore other people's advice.`
 
 Powered by https://api.adviceslip.com/
 
