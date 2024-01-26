@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
