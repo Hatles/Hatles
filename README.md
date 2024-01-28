@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
