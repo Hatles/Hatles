@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
