@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
