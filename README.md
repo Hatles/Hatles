@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
