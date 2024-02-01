@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`You don't need to floss all of your teeth. Only the ones you want to keep.`
 
 Powered by https://api.adviceslip.com/
 
