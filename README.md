@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Fail. Fail again. Fail better.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
