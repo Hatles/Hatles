@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
 
 Powered by https://api.adviceslip.com/
 
