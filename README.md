@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
+`If you don't want something to be public, don't post it on the Internet.`
 
 Powered by https://api.adviceslip.com/
 
