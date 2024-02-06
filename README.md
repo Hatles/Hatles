@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't want something to be public, don't post it on the Internet.`
+`Visitors are like fish: As much as you might like them, after three days they start to smell.`
 
 Powered by https://api.adviceslip.com/
 
