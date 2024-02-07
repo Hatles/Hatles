@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Visitors are like fish: As much as you might like them, after three days they start to smell.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
