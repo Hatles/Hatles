@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`When faced with a choice, do both.`
 
 Powered by https://api.adviceslip.com/
 
