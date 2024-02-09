@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When faced with a choice, do both.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
