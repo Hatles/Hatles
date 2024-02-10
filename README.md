@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`Stop procrastinating.`
 
 Powered by https://api.adviceslip.com/
 
