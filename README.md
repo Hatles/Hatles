@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop procrastinating.`
+`You never really grow up.`
 
 Powered by https://api.adviceslip.com/
 
