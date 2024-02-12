@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
