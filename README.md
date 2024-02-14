@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one had the courage to be ones true self.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
