@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Vinegar is a powerful cleaning agent.`
 
 Powered by https://api.adviceslip.com/
 
