@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
