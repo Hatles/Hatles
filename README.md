@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
 
 Powered by https://api.adviceslip.com/
 
