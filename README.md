@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
+`If you've nothing nice to say, say nothing.`
 
 Powered by https://api.adviceslip.com/
 
