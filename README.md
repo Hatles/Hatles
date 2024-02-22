@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
