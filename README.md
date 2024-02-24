@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
