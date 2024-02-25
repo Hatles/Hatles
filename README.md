@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Share positive energy.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
