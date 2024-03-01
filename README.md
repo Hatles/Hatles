@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't promise what you can't deliver.`
+`Don't take life too seriously.`
 
 Powered by https://api.adviceslip.com/
 
