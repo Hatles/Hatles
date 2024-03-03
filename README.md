@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
