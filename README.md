@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`You never really grow up.`
 
 Powered by https://api.adviceslip.com/
 
