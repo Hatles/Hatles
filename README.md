@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`What could you increase? What could you reduce?`
 
 Powered by https://api.adviceslip.com/
 
