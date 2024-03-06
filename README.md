@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What could you increase? What could you reduce?`
+`Everybody makes mistakes.`
 
 Powered by https://api.adviceslip.com/
 
