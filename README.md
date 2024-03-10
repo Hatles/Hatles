@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
