@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
+`Always seek out advice or opinions when making a decision.`
 
 Powered by https://api.adviceslip.com/
 
