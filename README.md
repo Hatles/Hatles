@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`Your smile could make someone's day, don't forget to wear it.`
 
 Powered by https://api.adviceslip.com/
 
