@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Your smile could make someone's day, don't forget to wear it.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
