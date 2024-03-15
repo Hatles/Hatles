@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
