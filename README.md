@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some of life's best lessons are learnt at the worst times.`
+`One of the top five regrets people have is that they didn't stay in contact with friends.`
 
 Powered by https://api.adviceslip.com/
 
