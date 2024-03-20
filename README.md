@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn from your mistakes.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
