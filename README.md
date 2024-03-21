@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
