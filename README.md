@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
