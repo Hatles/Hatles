@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`The best nights out are when people around you are simply having fun.`
 
 Powered by https://api.adviceslip.com/
 
