@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`Try to do the things that you're incapable of.`
 
 Powered by https://api.adviceslip.com/
 
