@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
