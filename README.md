@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`Never pay full price for a sofa at DFS.`
 
 Powered by https://api.adviceslip.com/
 
