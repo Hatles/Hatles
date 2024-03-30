@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
