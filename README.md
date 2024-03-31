@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`A nod is as good as a wink to a blind horse.`
 
 Powered by https://api.adviceslip.com/
 
