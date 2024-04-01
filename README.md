@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
