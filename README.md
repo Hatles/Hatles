@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Don't ever name files or folders using the word "Final".`
 
 Powered by https://api.adviceslip.com/
 
