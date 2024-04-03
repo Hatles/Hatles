@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't ever name files or folders using the word "Final".`
+`The more ideas that you give away, the more ideas that will come to you.`
 
 Powered by https://api.adviceslip.com/
 
