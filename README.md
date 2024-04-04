@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The more ideas that you give away, the more ideas that will come to you.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
