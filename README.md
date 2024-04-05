@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`The hardest things to say are usually the most important.`
 
 Powered by https://api.adviceslip.com/
 
