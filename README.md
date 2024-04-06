@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The hardest things to say are usually the most important.`
+`Do a bit more for your friends.`
 
 Powered by https://api.adviceslip.com/
 
