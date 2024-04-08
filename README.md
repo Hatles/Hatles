@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
+`If you are ever in doubt about whether or not to wash your hair: Wash it.`
 
 Powered by https://api.adviceslip.com/
 
