@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Once in a while, eat some sweets you used to enjoy when you were younger.`
 
 Powered by https://api.adviceslip.com/
 
