@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accept advice.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
