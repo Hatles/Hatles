@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Repeat people's names when you meet them.`
+`It's always the quiet ones.`
 
 Powered by https://api.adviceslip.com/
 
