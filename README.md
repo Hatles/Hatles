@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Never pay full price for a sofa at DFS.`
 
 Powered by https://api.adviceslip.com/
 
