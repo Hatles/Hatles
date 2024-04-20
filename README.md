@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never pay full price for a sofa at DFS.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
