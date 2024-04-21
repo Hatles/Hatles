@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat non-snow-coloured snow.`
+`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
 
 Powered by https://api.adviceslip.com/
 
