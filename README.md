@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
+`Remember that spiders are more afraid of you, than you are of them.`
 
 Powered by https://api.adviceslip.com/
 
