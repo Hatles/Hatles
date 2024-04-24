@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`Your smile could make someone's day, don't forget to wear it.`
 
 Powered by https://api.adviceslip.com/
 
