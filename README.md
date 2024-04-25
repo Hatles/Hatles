@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Your smile could make someone's day, don't forget to wear it.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
