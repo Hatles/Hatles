@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
