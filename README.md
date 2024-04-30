@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Build something out of LEGO.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
