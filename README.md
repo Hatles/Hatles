@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Visitors are like fish: As much as you might like them, after three days they start to smell.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
