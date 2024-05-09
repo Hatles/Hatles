@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Smile and the world smiles with you. Frown and you're on your own.`
 
 Powered by https://api.adviceslip.com/
 
