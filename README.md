@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Smile and the world smiles with you. Frown and you're on your own.`
+`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
 
 Powered by https://api.adviceslip.com/
 
