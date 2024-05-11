@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
+`Everything matters, but nothing matters that much.`
 
 Powered by https://api.adviceslip.com/
 
