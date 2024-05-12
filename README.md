@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything matters, but nothing matters that much.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
