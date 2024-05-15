@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`Fail. Fail again. Fail better.`
 
 Powered by https://api.adviceslip.com/
 
