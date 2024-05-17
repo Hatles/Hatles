@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`Accentuate the positive, eliminate the negative.`
 
 Powered by https://api.adviceslip.com/
 
