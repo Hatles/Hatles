@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accentuate the positive, eliminate the negative.`
+`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
 
 Powered by https://api.adviceslip.com/
 
