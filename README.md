@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do, or do not. There is no try.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
