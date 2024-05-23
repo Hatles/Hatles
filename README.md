@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
