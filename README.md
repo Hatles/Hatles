@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Big things have small beginnings.`
 
 Powered by https://api.adviceslip.com/
 
