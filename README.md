@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Big things have small beginnings.`
+`Try making a list.`
 
 Powered by https://api.adviceslip.com/
 
