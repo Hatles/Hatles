@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try making a list.`
+`If you don't want something to be public, don't post it on the Internet.`
 
 Powered by https://api.adviceslip.com/
 
