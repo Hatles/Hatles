@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't want something to be public, don't post it on the Internet.`
+`A long walk alone with some time to think, can work wonders.`
 
 Powered by https://api.adviceslip.com/
 
