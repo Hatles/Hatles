@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A long walk alone with some time to think, can work wonders.`
+`One of the top five regrets people have is that they didn't have the courage to be their true self.`
 
 Powered by https://api.adviceslip.com/
 
