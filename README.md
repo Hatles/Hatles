@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
+`Once you find a really good friend don't do anything that could mess up your friendship.`
 
 Powered by https://api.adviceslip.com/
 
