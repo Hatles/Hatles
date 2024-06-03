@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Once you find a really good friend don't do anything that could mess up your friendship.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
