@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
