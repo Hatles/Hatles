@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`You never really grow up.`
 
 Powered by https://api.adviceslip.com/
 
