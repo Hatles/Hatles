@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`Only those who attempt the impossible can achieve the absurd.`
 
 Powered by https://api.adviceslip.com/
 
