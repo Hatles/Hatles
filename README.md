@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Only those who attempt the impossible can achieve the absurd.`
+`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
 
 Powered by https://api.adviceslip.com/
 
