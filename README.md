@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
