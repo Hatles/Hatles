@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
 
 Powered by https://api.adviceslip.com/
 
