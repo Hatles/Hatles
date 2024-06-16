@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
 
 Powered by https://api.adviceslip.com/
 
