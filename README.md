@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
+`Fail. Fail again. Fail better.`
 
 Powered by https://api.adviceslip.com/
 
