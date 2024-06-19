@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
+`Remember that spiders are more afraid of you, than you are of them.`
 
 Powered by https://api.adviceslip.com/
 
