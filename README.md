@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run with scissors.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
