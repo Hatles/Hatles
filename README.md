@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`Brush your teeth the moment you get up.`
 
 Powered by https://api.adviceslip.com/
 
