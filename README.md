@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
