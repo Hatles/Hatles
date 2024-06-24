@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
