@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
