@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you can't do anything about it, there's no point in worrying about it.`
+`Don't promise what you can't deliver.`
 
 Powered by https://api.adviceslip.com/
 
