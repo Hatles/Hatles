@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't promise what you can't deliver.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
