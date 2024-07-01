@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Turn jeans inside out when washing them to help preserve their colour.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
