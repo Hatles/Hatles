@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`Never write in an email to someone, something which you wouldn't say to that person's face.`
 
 Powered by https://api.adviceslip.com/
 
