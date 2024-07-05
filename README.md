@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's wrong to be right.`
+`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
 
 Powered by https://api.adviceslip.com/
 
