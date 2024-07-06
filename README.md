@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
