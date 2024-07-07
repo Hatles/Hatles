@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
 
 Powered by https://api.adviceslip.com/
 
