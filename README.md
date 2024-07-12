@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
