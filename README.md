@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always bet on black.`
+`You can have too much of a good thing.`
 
 Powered by https://api.adviceslip.com/
 
