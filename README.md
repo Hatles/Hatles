@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can have too much of a good thing.`
+`Don't ever name files or folders using the word "Final".`
 
 Powered by https://api.adviceslip.com/
 
