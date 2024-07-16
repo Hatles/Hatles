@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try making a list.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
