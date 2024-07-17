@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
