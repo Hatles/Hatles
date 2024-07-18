@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect your elders.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
