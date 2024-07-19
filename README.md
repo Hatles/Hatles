@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`If it ain't broke don't fix it.`
 
 Powered by https://api.adviceslip.com/
 
