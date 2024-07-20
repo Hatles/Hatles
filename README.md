@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it ain't broke don't fix it.`
+`If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.`
 
 Powered by https://api.adviceslip.com/
 
