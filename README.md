@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`Everybody makes mistakes.`
 
 Powered by https://api.adviceslip.com/
 
