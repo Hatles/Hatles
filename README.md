@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everybody makes mistakes.`
+`Try to do the things that you're incapable of.`
 
 Powered by https://api.adviceslip.com/
 
