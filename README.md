@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
 
 Powered by https://api.adviceslip.com/
 
