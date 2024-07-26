@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Be a good lover.`
 
 Powered by https://api.adviceslip.com/
 
