@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Your smile could make someone's day, don't forget to wear it.`
 
 Powered by https://api.adviceslip.com/
 
