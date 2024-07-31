@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Your smile could make someone's day, don't forget to wear it.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
