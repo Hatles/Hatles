@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
