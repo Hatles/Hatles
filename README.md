@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Taking photos with tablet devices looks weird.`
 
 Powered by https://api.adviceslip.com/
 
