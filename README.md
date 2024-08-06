@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`You're not as fat as you think you are.`
 
 Powered by https://api.adviceslip.com/
 
