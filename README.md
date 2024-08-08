@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
