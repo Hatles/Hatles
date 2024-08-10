@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
