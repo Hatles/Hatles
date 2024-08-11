@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
