@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
 
 Powered by https://api.adviceslip.com/
 
