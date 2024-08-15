@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Stop procrastinating.`
 
 Powered by https://api.adviceslip.com/
 
