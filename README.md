@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop procrastinating.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
