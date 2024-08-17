@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eliminate the unnecessary.`
+`Most things look better when you put them in a circle.`
 
 Powered by https://api.adviceslip.com/
 
