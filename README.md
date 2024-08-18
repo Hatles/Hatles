@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things look better when you put them in a circle.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
