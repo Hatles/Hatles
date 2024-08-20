@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one hadn't worked so hard.`
+`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
 
 Powered by https://api.adviceslip.com/
 
