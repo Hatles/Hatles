@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think your headphones are dying, check the socket for fluff with a straightened paperclip.`
+`Never set an alarm clock unless you know how to switch it off`
 
 Powered by https://api.adviceslip.com/
 
