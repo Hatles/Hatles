@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never set an alarm clock unless you know how to switch it off`
+`Accentuate the positive, eliminate the negative.`
 
 Powered by https://api.adviceslip.com/
 
