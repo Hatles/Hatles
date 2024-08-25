@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`No one knows anyone else in the way you do.`
 
 Powered by https://api.adviceslip.com/
 
