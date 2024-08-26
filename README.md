@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No one knows anyone else in the way you do.`
+`You can have too much of a good thing.`
 
 Powered by https://api.adviceslip.com/
 
