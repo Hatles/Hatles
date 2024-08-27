@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can have too much of a good thing.`
+`Quality beats quantity.`
 
 Powered by https://api.adviceslip.com/
 
