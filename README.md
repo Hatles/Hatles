@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`If your hair is thinning, try dying your hair a similar tone to your scalp.`
 
 Powered by https://api.adviceslip.com/
 
