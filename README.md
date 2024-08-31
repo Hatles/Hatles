@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If your hair is thinning, try dying your hair a similar tone to your scalp.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
