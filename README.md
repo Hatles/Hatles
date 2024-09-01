@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never cut your own fringe.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
