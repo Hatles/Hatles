@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eliminate the unnecessary.`
+`Don't take it personally.`
 
 Powered by https://api.adviceslip.com/
 
