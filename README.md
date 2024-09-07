@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accept advice.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
