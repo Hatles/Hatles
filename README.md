@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
+`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
 
 Powered by https://api.adviceslip.com/
 
