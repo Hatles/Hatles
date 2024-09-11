@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
