@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A problem shared is a problem halved.`
+`Big things have small beginnings.`
 
 Powered by https://api.adviceslip.com/
 
