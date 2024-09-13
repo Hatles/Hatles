@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Big things have small beginnings.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
