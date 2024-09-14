@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
