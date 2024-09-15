@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To improve productivity, always have a shittier task to put off.`
+`If you get stuck, try doing the opposite of what the solution requires.`
 
 Powered by https://api.adviceslip.com/
 
