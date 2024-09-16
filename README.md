@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
