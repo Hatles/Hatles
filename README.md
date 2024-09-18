@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
