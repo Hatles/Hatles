@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`Good things come to those who wait.`
 
 Powered by https://api.adviceslip.com/
 
