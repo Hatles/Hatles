@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good things come to those who wait.`
+`Mercy is the better part of justice.`
 
 Powered by https://api.adviceslip.com/
 
