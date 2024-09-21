@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Mercy is the better part of justice.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
