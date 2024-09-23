@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Don't judge a book by its cover, unless it has a synopsis on the back.`
 
 Powered by https://api.adviceslip.com/
 
