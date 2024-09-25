@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
+`Don't take life too seriously.`
 
 Powered by https://api.adviceslip.com/
 
