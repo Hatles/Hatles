@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't take life too seriously.`
+`Vinegar is a powerful cleaning agent.`
 
 Powered by https://api.adviceslip.com/
 
