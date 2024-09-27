@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`Be a good lover.`
 
 Powered by https://api.adviceslip.com/
 
