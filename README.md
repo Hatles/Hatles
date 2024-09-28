@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be a good lover.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
