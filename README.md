@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Play is the true mother of invention.`
+`When you're looking up at birds flying overhead, keep your mouth closed.`
 
 Powered by https://api.adviceslip.com/
 
