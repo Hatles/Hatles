@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`The most important thing is the thing most easily forgotten.`
 
 Powered by https://api.adviceslip.com/
 
