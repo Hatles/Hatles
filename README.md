@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
