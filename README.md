@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Share positive energy.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
