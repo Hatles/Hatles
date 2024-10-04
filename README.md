@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`You don't need to floss all of your teeth. Only the ones you want to keep.`
 
 Powered by https://api.adviceslip.com/
 
