@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Don't wear clean trousers when walking your dog in the park.`
 
 Powered by https://api.adviceslip.com/
 
