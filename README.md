@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
