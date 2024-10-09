@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
