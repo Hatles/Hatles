@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`YOLO`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
