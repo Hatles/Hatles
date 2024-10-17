@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you want to be happily married, marry a happy person.`
+`Once you find a really good friend don't do anything that could mess up your friendship.`
 
 Powered by https://api.adviceslip.com/
 
