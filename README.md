@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Once you find a really good friend don't do anything that could mess up your friendship.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
