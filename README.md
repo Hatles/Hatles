@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
