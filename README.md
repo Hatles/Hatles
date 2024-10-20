@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Why wait until valentines day for a romantic gesture?`
+`Don't wear clean trousers when walking your dog in the park.`
 
 Powered by https://api.adviceslip.com/
 
