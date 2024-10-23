@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
