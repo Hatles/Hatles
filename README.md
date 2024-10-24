@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
