@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's unlucky to be superstitious.`
+`No one knows anyone else in the way you do.`
 
 Powered by https://api.adviceslip.com/
 
