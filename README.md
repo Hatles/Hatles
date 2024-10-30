@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Put a piece of kitchen roll in with your bag of leaves to make them last longer.`
+`Being kind is more rewarding than being right.`
 
 Powered by https://api.adviceslip.com/
 
