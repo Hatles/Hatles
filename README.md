@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`When faced with a choice, do both.`
 
 Powered by https://api.adviceslip.com/
 
