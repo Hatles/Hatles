@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When faced with a choice, do both.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
