@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A problem shared is a problem halved.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
