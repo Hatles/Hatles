@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`YOLO`
+`Smile and the world smiles with you. Frown and you're on your own.`
 
 Powered by https://api.adviceslip.com/
 
