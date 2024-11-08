@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
