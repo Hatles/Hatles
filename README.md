@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run with scissors.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
