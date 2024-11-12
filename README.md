@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat non-snow-coloured snow.`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
