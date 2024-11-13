@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn to handle criticism.`
+`Taking photos with tablet devices looks weird.`
 
 Powered by https://api.adviceslip.com/
 
