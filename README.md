@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
