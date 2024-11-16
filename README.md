@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
