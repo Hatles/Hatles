@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Hold the door open for the next person.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
