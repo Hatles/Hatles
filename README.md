@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Give up your seat for someone who needs it.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
