@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
