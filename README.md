@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The more ideas that you give away, the more ideas that will come to you.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
