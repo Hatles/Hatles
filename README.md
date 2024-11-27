@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Brush your teeth the moment you get up.`
 
 Powered by https://api.adviceslip.com/
 
