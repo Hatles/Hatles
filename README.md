@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`For every complex problem there is an answer that is clear, simple, and wrong.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
