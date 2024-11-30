@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`The most important thing is the thing most easily forgotten.`
 
 Powered by https://api.adviceslip.com/
 
