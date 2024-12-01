@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
