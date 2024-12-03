@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't try and bump start a motorcycle on an icy road.`
+`If you get stuck, try doing the opposite of what the solution requires.`
 
 Powered by https://api.adviceslip.com/
 
