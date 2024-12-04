@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
 
 Powered by https://api.adviceslip.com/
 
