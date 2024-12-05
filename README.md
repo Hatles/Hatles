@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
