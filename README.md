@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
 
 Powered by https://api.adviceslip.com/
 
