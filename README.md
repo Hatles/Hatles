@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
