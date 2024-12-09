@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`Don't use Excel or Powerpoint documents for your basic word processing needs.`
 
 Powered by https://api.adviceslip.com/
 
