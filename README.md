@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't use Excel or Powerpoint documents for your basic word processing needs.`
+`Do not check work email on your days off.`
 
 Powered by https://api.adviceslip.com/
 
