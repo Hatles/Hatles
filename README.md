@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
