@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remember that spiders are more afraid of you, than you are of them.`
+`Keep it simple.`
 
 Powered by https://api.adviceslip.com/
 
