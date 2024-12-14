@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Keep it simple.`
+`If it ain't broke don't fix it.`
 
 Powered by https://api.adviceslip.com/
 
