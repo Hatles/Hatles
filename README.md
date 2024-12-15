@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it ain't broke don't fix it.`
+`A common regret in life is wishing one had the courage to be ones true self.`
 
 Powered by https://api.adviceslip.com/
 
