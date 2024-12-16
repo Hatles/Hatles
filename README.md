@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one had the courage to be ones true self.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
