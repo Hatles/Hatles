@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Everybody makes mistakes.`
 
 Powered by https://api.adviceslip.com/
 
