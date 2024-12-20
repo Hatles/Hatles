@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everybody makes mistakes.`
+`Do a bit more for your friends.`
 
 Powered by https://api.adviceslip.com/
 
