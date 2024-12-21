@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do a bit more for your friends.`
+`Don't try and bump start a motorcycle on an icy road.`
 
 Powered by https://api.adviceslip.com/
 
