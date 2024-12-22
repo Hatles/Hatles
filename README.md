@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't try and bump start a motorcycle on an icy road.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
