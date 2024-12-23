@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid to ask questions.`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
