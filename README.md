@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things look better when you put them in a circle.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
