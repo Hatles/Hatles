@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never cut your own fringe.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
