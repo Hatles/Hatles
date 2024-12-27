@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Smile and the world smiles with you. Frown and you're on your own.`
 
 Powered by https://api.adviceslip.com/
 
