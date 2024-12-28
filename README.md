@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Smile and the world smiles with you. Frown and you're on your own.`
+`Turn jeans inside out when washing them to help preserve their colour.`
 
 Powered by https://api.adviceslip.com/
 
