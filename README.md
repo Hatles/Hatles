@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`Do, or do not. There is no try.`
 
 Powered by https://api.adviceslip.com/
 
