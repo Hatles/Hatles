@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
+`If your hair is thinning, try dying your hair a similar tone to your scalp.`
 
 Powered by https://api.adviceslip.com/
 
