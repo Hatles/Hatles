@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If your hair is thinning, try dying your hair a similar tone to your scalp.`
+`If you get stuck, try doing the opposite of what the solution requires.`
 
 Powered by https://api.adviceslip.com/
 
