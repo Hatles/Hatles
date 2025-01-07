@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Only those who attempt the impossible can achieve the absurd.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
