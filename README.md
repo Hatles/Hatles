@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Don't drink bleach.`
 
 Powered by https://api.adviceslip.com/
 
