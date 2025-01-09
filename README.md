@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't drink bleach.`
+`Do, or do not. There is no try.`
 
 Powered by https://api.adviceslip.com/
 
