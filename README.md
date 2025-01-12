@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't drink bleach.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
