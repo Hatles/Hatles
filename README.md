@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not compare yourself with others.`
+`Don't always believe what you think.`
 
 Powered by https://api.adviceslip.com/
 
