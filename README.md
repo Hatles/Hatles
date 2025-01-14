@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always believe what you think.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
