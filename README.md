@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
 
 Powered by https://api.adviceslip.com/
 
