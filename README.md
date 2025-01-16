@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are feeling down, try holding a pencil between your top lip and your nose for five minutes.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
