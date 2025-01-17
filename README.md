@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat non-snow-coloured snow.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
