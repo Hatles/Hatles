@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`Good advice is something a man gives when he is too old to set a bad example.`
 
 Powered by https://api.adviceslip.com/
 
