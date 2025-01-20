@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good advice is something a man gives when he is too old to set a bad example.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
