@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
