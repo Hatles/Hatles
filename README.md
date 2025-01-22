@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Don't be afraid to ask questions.`
 
 Powered by https://api.adviceslip.com/
 
