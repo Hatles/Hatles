@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid to ask questions.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
