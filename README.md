@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
