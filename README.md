@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
