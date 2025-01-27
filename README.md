@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
