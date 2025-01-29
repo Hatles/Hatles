@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best nights out are when people around you are simply having fun.`
+`Visitors are like fish: As much as you might like them, after three days they start to smell.`
 
 Powered by https://api.adviceslip.com/
 
