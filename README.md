@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Visitors are like fish: As much as you might like them, after three days they start to smell.`
+`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
 
 Powered by https://api.adviceslip.com/
 
