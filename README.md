@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`Try to pay at least one person a compliment every day.`
 
 Powered by https://api.adviceslip.com/
 
