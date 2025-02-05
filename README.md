@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to pay at least one person a compliment every day.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
