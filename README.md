@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
 
 Powered by https://api.adviceslip.com/
 
