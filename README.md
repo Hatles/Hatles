@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
