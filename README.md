@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat anything your grandparents wouldn't recognise as food.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
