@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`A common regret in life is wishing one had the courage to be ones true self.`
 
 Powered by https://api.adviceslip.com/
 
