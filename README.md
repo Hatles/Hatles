@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
