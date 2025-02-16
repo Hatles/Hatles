@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
