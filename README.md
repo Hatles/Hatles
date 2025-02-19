@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
 
 Powered by https://api.adviceslip.com/
 
