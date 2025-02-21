@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everyone has their down days. Don't take it out on innocent bystanders.`
+`Being kind is more rewarding than being right.`
 
 Powered by https://api.adviceslip.com/
 
