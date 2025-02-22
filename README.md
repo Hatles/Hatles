@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`Cars are bad investments.`
 
 Powered by https://api.adviceslip.com/
 
