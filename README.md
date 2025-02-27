@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of Tequila.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
