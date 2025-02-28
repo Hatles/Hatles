@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think nobody cares if you're alive, try missing a few payments.`
+`Exercise in the rain can really make you feel alive.`
 
 Powered by https://api.adviceslip.com/
 
