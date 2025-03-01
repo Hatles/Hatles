@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`Gratitude is said to be the secret to happiness.`
 
 Powered by https://api.adviceslip.com/
 
