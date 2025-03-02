@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Gratitude is said to be the secret to happiness.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
