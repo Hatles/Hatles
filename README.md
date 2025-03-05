@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`Don't always believe what you think.`
 
 Powered by https://api.adviceslip.com/
 
