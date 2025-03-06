@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always believe what you think.`
+`Try to do the things that you're incapable of.`
 
 Powered by https://api.adviceslip.com/
 
