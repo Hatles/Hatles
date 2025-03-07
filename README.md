@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`Eat food. Not too much, mostly plants.`
 
 Powered by https://api.adviceslip.com/
 
