@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
+`When you're at a concert or event, enjoy the moment, enjoy being there. Try leaving your camera in your pocket.`
 
 Powered by https://api.adviceslip.com/
 
