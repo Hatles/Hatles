@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
+`One of the top five regrets people have is that they didn't stay in contact with friends.`
 
 Powered by https://api.adviceslip.com/
 
