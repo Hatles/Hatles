@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't stay in contact with friends.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
