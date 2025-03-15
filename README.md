@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Hold the door open for the next person.`
+`Don't eat anything your grandparents wouldn't recognise as food.`
 
 Powered by https://api.adviceslip.com/
 
