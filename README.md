@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
+`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
 
 Powered by https://api.adviceslip.com/
 
