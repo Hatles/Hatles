@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What could you increase? What could you reduce?`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
