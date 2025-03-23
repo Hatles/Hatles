@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Stop using the term "busy" as an excuse.`
 
 Powered by https://api.adviceslip.com/
 
