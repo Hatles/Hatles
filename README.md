@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
