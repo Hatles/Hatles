@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
 
 Powered by https://api.adviceslip.com/
 
