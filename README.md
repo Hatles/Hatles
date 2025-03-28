@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
