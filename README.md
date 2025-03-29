@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
