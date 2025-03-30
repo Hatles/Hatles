@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
