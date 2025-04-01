@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't want something to be public, don't post it on the Internet.`
+`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
 
 Powered by https://api.adviceslip.com/
 
