@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
