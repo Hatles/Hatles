@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`It's not about who likes you, it's about who you like.`
 
 Powered by https://api.adviceslip.com/
 
