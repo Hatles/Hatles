@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's not about who likes you, it's about who you like.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
