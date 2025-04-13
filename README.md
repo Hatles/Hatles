@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`When faced with a choice, do both.`
 
 Powered by https://api.adviceslip.com/
 
