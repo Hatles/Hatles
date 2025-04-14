@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When faced with a choice, do both.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
