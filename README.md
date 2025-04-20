@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`What's stopping you?`
 
 Powered by https://api.adviceslip.com/
 
