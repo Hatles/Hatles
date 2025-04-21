@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What's stopping you?`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
