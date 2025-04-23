@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
