@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Be a good lover.`
 
 Powered by https://api.adviceslip.com/
 
