@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one hadn't worked so hard.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
