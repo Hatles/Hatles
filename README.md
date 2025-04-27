@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Do not check work email on your days off.`
 
 Powered by https://api.adviceslip.com/
 
