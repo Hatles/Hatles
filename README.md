@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
