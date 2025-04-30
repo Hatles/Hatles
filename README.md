@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some of life's best lessons are learnt at the worst times.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
