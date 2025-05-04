@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always believe what you think.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
