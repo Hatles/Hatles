@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
