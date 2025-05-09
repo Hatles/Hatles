@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`Taking photos with tablet devices looks weird.`
 
 Powered by https://api.adviceslip.com/
 
