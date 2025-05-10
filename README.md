@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Taking photos with tablet devices looks weird.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
