@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Cars are bad investments.`
+`Don't feed Mogwais after midnight.`
 
 Powered by https://api.adviceslip.com/
 
