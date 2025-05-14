@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
