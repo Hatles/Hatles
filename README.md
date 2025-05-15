@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`When faced with a choice, do both.`
 
 Powered by https://api.adviceslip.com/
 
