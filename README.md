@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When faced with a choice, do both.`
+`Visitors are like fish: As much as you might like them, after three days they start to smell.`
 
 Powered by https://api.adviceslip.com/
 
