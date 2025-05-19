@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think nobody cares if you're alive, try missing a few payments.`
+`Your smile could make someone's day, don't forget to wear it.`
 
 Powered by https://api.adviceslip.com/
 
