@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`Opinions are like arseholes, everyone has one.`
 
 Powered by https://api.adviceslip.com/
 
