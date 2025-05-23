@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Opinions are like arseholes, everyone has one.`
+`Life can be a lot more interesting inside your head.`
 
 Powered by https://api.adviceslip.com/
 
