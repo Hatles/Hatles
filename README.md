@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life can be a lot more interesting inside your head.`
+`No "brand" is your friend.`
 
 Powered by https://api.adviceslip.com/
 
