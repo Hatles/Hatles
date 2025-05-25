@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`No "brand" is your friend.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
