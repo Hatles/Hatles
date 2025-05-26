@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`Try to pay at least one person a compliment every day.`
 
 Powered by https://api.adviceslip.com/
 
