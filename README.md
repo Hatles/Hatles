@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to pay at least one person a compliment every day.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
