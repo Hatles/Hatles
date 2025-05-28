@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always the burrito.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
