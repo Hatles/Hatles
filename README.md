@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`Most things done in secrecy are better left undone.`
 
 Powered by https://api.adviceslip.com/
 
