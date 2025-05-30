@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things done in secrecy are better left undone.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
