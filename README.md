@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`Identify sources of happiness.`
 
 Powered by https://api.adviceslip.com/
 
