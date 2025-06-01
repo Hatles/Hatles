@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
