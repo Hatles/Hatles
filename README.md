@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`If you get stuck, try doing the opposite of what the solution requires.`
 
 Powered by https://api.adviceslip.com/
 
