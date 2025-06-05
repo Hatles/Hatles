@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`Happiness is a journey, not a destination.`
 
 Powered by https://api.adviceslip.com/
 
