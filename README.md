@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Happiness is a journey, not a destination.`
+`Age is of no importance, unless you are a cheese.`
 
 Powered by https://api.adviceslip.com/
 
