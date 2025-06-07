@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Age is of no importance, unless you are a cheese.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
