@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn to handle criticism.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
