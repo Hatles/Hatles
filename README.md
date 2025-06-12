@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Just because you are offended, doesn't mean you are right.`
+`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
 
 Powered by https://api.adviceslip.com/
 
