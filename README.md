@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
+`Try to do the things that you're incapable of.`
 
 Powered by https://api.adviceslip.com/
 
