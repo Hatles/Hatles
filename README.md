@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
