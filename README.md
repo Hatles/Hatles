@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't stay in contact with friends.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
