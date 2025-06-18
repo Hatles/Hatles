@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
