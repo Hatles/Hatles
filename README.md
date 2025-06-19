@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
