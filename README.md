@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Age is of no importance, unless you are a cheese.`
 
 Powered by https://api.adviceslip.com/
 
