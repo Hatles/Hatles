@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Age is of no importance, unless you are a cheese.`
+`When something goes wrong in life, just shout "plot twist!" and carry on.`
 
 Powered by https://api.adviceslip.com/
 
