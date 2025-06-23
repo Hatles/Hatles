@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
