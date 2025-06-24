@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`Don't drink bleach.`
 
 Powered by https://api.adviceslip.com/
 
