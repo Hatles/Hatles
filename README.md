@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
 
 Powered by https://api.adviceslip.com/
 
