@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Rule number 1: Try not to die. Rule number 2: Don't be a dick.`
+`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
 
 Powered by https://api.adviceslip.com/
 
