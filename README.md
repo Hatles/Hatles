@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Drink a glass of water before meals.`
 
 Powered by https://api.adviceslip.com/
 
