@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Drink a glass of water before meals.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
