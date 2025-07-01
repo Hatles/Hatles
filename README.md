@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eliminate the unnecessary.`
+`You don't need to floss all of your teeth. Only the ones you want to keep.`
 
 Powered by https://api.adviceslip.com/
 
