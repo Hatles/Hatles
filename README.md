@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Some people would be better off if they took their own advice.`
 
 Powered by https://api.adviceslip.com/
 
