@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
