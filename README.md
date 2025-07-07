@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not as fat as you think you are.`
+`Identify sources of happiness.`
 
 Powered by https://api.adviceslip.com/
 
