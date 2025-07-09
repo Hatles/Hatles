@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Take time once in a while to look up at the stars for at least 5 minutes, in order to comprehend your cosmic significance.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
