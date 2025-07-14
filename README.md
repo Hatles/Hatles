@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`If you need cheering up, try searching online for photos of kittens.`
 
 Powered by https://api.adviceslip.com/
 
