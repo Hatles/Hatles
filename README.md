@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you need cheering up, try searching online for photos of kittens.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
