@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
 
 Powered by https://api.adviceslip.com/
 
