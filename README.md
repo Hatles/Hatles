@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Be a good lover.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
