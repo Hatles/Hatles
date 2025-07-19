@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`Once in a while, eat some sweets you used to enjoy when you were younger.`
 
 Powered by https://api.adviceslip.com/
 
