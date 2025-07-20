@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Once in a while, eat some sweets you used to enjoy when you were younger.`
+`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
 
 Powered by https://api.adviceslip.com/
 
