@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`A problem shared is a problem halved.`
 
 Powered by https://api.adviceslip.com/
 
