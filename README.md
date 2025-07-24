@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
+`Respect other people's opinions, even when they differ from your own.`
 
 Powered by https://api.adviceslip.com/
 
