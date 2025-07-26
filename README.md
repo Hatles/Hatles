@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you want to be happily married, marry a happy person.`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
