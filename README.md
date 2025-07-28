@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can have too much of a good thing.`
+`A long walk alone with some time to think, can work wonders.`
 
 Powered by https://api.adviceslip.com/
 
