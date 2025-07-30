@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never waste an opportunity to tell someone you love them.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
