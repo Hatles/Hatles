@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good advice is something a man gives when he is too old to set a bad example.`
+`When something goes wrong in life, just shout "plot twist!" and carry on.`
 
 Powered by https://api.adviceslip.com/
 
