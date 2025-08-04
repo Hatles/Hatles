@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When something goes wrong in life, just shout "plot twist!" and carry on.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
