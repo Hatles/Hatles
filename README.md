@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Always seek out advice or opinions when making a decision.`
 
 Powered by https://api.adviceslip.com/
 
