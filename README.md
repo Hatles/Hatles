@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`If you don't want something to be public, don't post it on the Internet.`
 
 Powered by https://api.adviceslip.com/
 
