@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't want something to be public, don't post it on the Internet.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
