@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Cars are bad investments.`
 
 Powered by https://api.adviceslip.com/
 
