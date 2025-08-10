@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Cars are bad investments.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
