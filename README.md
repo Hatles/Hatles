@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.`
+`Try using an old idea.`
 
 Powered by https://api.adviceslip.com/
 
