@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
