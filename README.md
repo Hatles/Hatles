@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
