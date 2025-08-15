@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
