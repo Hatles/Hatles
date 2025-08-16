@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`Enjoy a little nonsense now and then.`
 
 Powered by https://api.adviceslip.com/
 
