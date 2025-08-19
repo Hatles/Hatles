@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Just because you are offended, doesn't mean you are right.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
