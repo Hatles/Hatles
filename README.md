@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
