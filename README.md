@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't judge a book by its cover, unless it has a synopsis on the back.`
+`Don't promise what you can't deliver.`
 
 Powered by https://api.adviceslip.com/
 
