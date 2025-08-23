@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't promise what you can't deliver.`
+`If you get stuck, try doing the opposite of what the solution requires.`
 
 Powered by https://api.adviceslip.com/
 
