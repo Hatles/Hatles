@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you get stuck, try doing the opposite of what the solution requires.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
