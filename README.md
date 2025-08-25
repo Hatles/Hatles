@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`Build something out of LEGO.`
 
 Powered by https://api.adviceslip.com/
 
