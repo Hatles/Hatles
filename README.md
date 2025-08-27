@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To improve productivity, always have a shittier task to put off.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
