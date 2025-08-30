@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eat food. Not too much, mostly plants.`
+`You will always regret the round of Tequila.`
 
 Powered by https://api.adviceslip.com/
 
