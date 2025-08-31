@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of Tequila.`
+`Build something out of LEGO.`
 
 Powered by https://api.adviceslip.com/
 
