@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Build something out of LEGO.`
+`Don't always rely on your comforts.`
 
 Powered by https://api.adviceslip.com/
 
