@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
