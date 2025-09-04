@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A common regret in life is wishing one had the courage to be ones true self.`
+`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
 
 Powered by https://api.adviceslip.com/
 
