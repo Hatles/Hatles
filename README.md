@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
+`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
 
 Powered by https://api.adviceslip.com/
 
