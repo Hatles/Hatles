@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Fail. Fail again. Fail better.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
