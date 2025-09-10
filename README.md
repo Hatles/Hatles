@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What could you increase? What could you reduce?`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
