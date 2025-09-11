@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Identify sources of happiness.`
 
 Powered by https://api.adviceslip.com/
 
