@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`Do a bit more for your friends.`
 
 Powered by https://api.adviceslip.com/
 
