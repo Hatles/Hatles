@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Winter is coming.`
+`You will always regret the round of JÃ¤germeister.`
 
 Powered by https://api.adviceslip.com/
 
