@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of JÃ¤germeister.`
+`Don't be afraid of silly ideas.`
 
 Powered by https://api.adviceslip.com/
 
