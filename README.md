@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid of silly ideas.`
+`Don't burn bridges.`
 
 Powered by https://api.adviceslip.com/
 
