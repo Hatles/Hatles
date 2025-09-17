@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't burn bridges.`
+`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
 
 Powered by https://api.adviceslip.com/
 
