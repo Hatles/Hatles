@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`Your smile could make someone's day, don't forget to wear it.`
 
 Powered by https://api.adviceslip.com/
 
