@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Things are just things. Don't get too attached to them.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
