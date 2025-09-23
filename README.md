@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To improve productivity, always have a shittier task to put off.`
+`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
 
 Powered by https://api.adviceslip.com/
 
