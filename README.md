@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
+`Big things have small beginnings.`
 
 Powered by https://api.adviceslip.com/
 
