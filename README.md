@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid to ask questions.`
+`The most delicious cocktails often have the highest alcohol content. Always pace yourself to preserve your dignity.`
 
 Powered by https://api.adviceslip.com/
 
