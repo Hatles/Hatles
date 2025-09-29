@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`As things get closer to the light, the shadows get darker.`
 
 Powered by https://api.adviceslip.com/
 
