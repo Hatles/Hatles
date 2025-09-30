@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
