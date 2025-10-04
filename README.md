@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`Remember that spiders are more afraid of you, than you are of them.`
 
 Powered by https://api.adviceslip.com/
 
