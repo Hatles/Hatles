@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remember that spiders are more afraid of you, than you are of them.`
+`Being kind is more rewarding than being right.`
 
 Powered by https://api.adviceslip.com/
 
