@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
