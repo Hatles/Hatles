@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Turn jeans inside out when washing them to help preserve their colour.`
+`Repeat people's names when you meet them.`
 
 Powered by https://api.adviceslip.com/
 
