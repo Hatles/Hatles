@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Repeat people's names when you meet them.`
+`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
 
 Powered by https://api.adviceslip.com/
 
