@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`The more ideas that you give away, the more ideas that will come to you.`
 
 Powered by https://api.adviceslip.com/
 
