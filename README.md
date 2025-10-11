@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The more ideas that you give away, the more ideas that will come to you.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
