@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`When the cistern is filling, the seat is probably still warm.`
 
 Powered by https://api.adviceslip.com/
 
