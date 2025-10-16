@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`When you look around and don't see anyone you respect, its time to leave.`
 
 Powered by https://api.adviceslip.com/
 
