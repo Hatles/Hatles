@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`If you can't do anything about it, there's no point in worrying about it.`
 
 Powered by https://api.adviceslip.com/
 
