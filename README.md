@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
