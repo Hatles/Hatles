@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Good advice is something a man gives when he is too old to set a bad example.`
 
 Powered by https://api.adviceslip.com/
 
