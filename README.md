@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good advice is something a man gives when he is too old to set a bad example.`
+`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
 
 Powered by https://api.adviceslip.com/
 
