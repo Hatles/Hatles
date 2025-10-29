@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Pedantry is fine, unless you're on the receiving end. And not a pedant.`
+`Sometimes it's best to ignore other people's advice.`
 
 Powered by https://api.adviceslip.com/
 
