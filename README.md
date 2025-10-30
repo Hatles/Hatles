@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes it's best to ignore other people's advice.`
+`Never cut your own fringe.`
 
 Powered by https://api.adviceslip.com/
 
