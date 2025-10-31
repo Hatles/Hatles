@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never cut your own fringe.`
+`Fail. Fail again. Fail better.`
 
 Powered by https://api.adviceslip.com/
 
