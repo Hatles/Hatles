@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Fail. Fail again. Fail better.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
