@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
