@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`Quality beats quantity.`
 
 Powered by https://api.adviceslip.com/
 
