@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Look people in the eye.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
