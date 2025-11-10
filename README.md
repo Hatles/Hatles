@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect your elders.`
+`Don't take it personally.`
 
 Powered by https://api.adviceslip.com/
 
