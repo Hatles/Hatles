@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to pay at least one person a compliment every day.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
