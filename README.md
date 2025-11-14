@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sing in the shower.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
