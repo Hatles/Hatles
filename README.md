@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
