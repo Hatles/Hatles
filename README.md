@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eliminate the unnecessary.`
+`Always seek out advice or opinions when making a decision.`
 
 Powered by https://api.adviceslip.com/
 
