@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`As you get older, learn never to trust a fart.`
 
 Powered by https://api.adviceslip.com/
 
