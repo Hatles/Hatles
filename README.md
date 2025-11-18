@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As you get older, learn never to trust a fart.`
+`It's not about who likes you, it's about who you like.`
 
 Powered by https://api.adviceslip.com/
 
