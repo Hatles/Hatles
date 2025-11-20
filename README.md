@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
