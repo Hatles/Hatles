@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The best sex is fun.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
