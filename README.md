@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`If you're going bald, don't comb your hair over your bald patch.`
 
 Powered by https://api.adviceslip.com/
 
