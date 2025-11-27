@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`When faced with a choice, do both.`
 
 Powered by https://api.adviceslip.com/
 
