@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When faced with a choice, do both.`
+`If you don't ask, you don't get.`
 
 Powered by https://api.adviceslip.com/
 
