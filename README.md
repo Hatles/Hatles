@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`The more ideas that you give away, the more ideas that will come to you.`
 
 Powered by https://api.adviceslip.com/
 
