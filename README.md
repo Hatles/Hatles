@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The more ideas that you give away, the more ideas that will come to you.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
