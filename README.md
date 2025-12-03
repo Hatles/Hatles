@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to do the things that you're incapable of.`
+`Try to pay at least one person a compliment every day.`
 
 Powered by https://api.adviceslip.com/
 
