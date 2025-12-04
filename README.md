@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to pay at least one person a compliment every day.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
