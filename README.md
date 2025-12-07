@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some of life's best lessons are learnt at the worst times.`
+`Always double check you actually attached the file to the email.`
 
 Powered by https://api.adviceslip.com/
 
