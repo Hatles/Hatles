@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always double check you actually attached the file to the email.`
+`If you don't like the opinion you've been given, get another one.`
 
 Powered by https://api.adviceslip.com/
 
