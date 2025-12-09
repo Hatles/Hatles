@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`Everybody makes mistakes.`
 
 Powered by https://api.adviceslip.com/
 
