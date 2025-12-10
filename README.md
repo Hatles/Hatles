@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everybody makes mistakes.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
