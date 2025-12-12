@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Respect other people's opinions, even when they differ from your own.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
