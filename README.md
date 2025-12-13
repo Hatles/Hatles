@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Sing in the shower.`
 
 Powered by https://api.adviceslip.com/
 
