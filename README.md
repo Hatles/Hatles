@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do, or do not. There is no try.`
+`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
 
 Powered by https://api.adviceslip.com/
 
