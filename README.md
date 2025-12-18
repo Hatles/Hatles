@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
