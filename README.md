@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
