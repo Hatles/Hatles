@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Make choices and dont look back.`
 
 Powered by https://api.adviceslip.com/
 
