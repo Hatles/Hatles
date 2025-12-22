@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
