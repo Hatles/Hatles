@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`YOLO`
 
 Powered by https://api.adviceslip.com/
 
