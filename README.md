@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`YOLO`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
