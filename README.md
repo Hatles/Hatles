@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`Never buy cheap cling film.`
 
 Powered by https://api.adviceslip.com/
 
