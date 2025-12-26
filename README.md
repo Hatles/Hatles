@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never buy cheap cling film.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
