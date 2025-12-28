@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
