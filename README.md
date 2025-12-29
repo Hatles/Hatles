@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Don't take it personally.`
 
 Powered by https://api.adviceslip.com/
 
