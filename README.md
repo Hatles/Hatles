@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't take it personally.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
