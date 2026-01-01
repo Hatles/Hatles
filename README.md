@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`State the problem in words as clearly as possible.`
+`Vinegar is a powerful cleaning agent.`
 
 Powered by https://api.adviceslip.com/
 
