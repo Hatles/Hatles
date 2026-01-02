@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Vinegar is a powerful cleaning agent.`
+`Value the people in your life.`
 
 Powered by https://api.adviceslip.com/
 
