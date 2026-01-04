@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When painting a room, preparation is key. The actual painting should account for about 40% of the work.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
