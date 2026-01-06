@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
 
 Powered by https://api.adviceslip.com/
 
