@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
