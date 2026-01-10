@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
