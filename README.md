@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`When painting a room, preparation is key. The actual painting should account for about 40% of the work.`
 
 Powered by https://api.adviceslip.com/
 
