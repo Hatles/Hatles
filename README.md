@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't ever name files or folders using the word "Final".`
+`If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.`
 
 Powered by https://api.adviceslip.com/
 
