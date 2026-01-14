@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you find yourself distressed about something, ask yourself if it will still matter tomorrow or next week or next month.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
