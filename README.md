@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Tell it like it is.`
 
 Powered by https://api.adviceslip.com/
 
