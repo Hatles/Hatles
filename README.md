@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Tell it like it is.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
