@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`Have a firm handshake.`
 
 Powered by https://api.adviceslip.com/
 
