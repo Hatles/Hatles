@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Have a firm handshake.`
+`Keep it simple.`
 
 Powered by https://api.adviceslip.com/
 
