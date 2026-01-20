@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Keep it simple.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
