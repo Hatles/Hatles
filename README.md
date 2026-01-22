@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
 
 Powered by https://api.adviceslip.com/
 
