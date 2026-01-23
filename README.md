@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
+`It's not about who likes you, it's about who you like.`
 
 Powered by https://api.adviceslip.com/
 
