@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`Most things look better when you put them in a circle.`
 
 Powered by https://api.adviceslip.com/
 
