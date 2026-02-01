@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things look better when you put them in a circle.`
+`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
 
 Powered by https://api.adviceslip.com/
 
