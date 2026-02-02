@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Giving someone a hug can be mutually rewarding. Try to give at least one hug a day to someone.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
