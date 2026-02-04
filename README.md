@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`Don't wear clean trousers when walking your dog in the park.`
 
 Powered by https://api.adviceslip.com/
 
