@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
 
 Powered by https://api.adviceslip.com/
 
