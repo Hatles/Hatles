@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Today, do not use the words "Kind of", "Sort of" or "Maybe". It either is or it isn't.`
+`If you don't ask, you don't get.`
 
 Powered by https://api.adviceslip.com/
 
