@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
 
 Powered by https://api.adviceslip.com/
 
