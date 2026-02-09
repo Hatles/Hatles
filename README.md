@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't feed Mogwais after midnight.`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
