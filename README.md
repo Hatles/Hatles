@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Learn to handle criticism.`
+`Look people in the eye.`
 
 Powered by https://api.adviceslip.com/
 
