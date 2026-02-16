@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
