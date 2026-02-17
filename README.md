@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If it still itches after a week, go to the doctors.`
+`Don't drink bleach.`
 
 Powered by https://api.adviceslip.com/
 
