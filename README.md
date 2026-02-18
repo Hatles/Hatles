@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't drink bleach.`
+`Everyone has their down days. Don't take it out on innocent bystanders.`
 
 Powered by https://api.adviceslip.com/
 
