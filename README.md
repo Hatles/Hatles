@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't be afraid of silly ideas.`
+`You never really grow up.`
 
 Powered by https://api.adviceslip.com/
 
