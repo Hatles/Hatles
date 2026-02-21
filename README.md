@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`Always block trolls.`
 
 Powered by https://api.adviceslip.com/
 
