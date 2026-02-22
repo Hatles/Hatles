@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always block trolls.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
