@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Play is the true mother of invention.`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
