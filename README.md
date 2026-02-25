@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`Don't assume anything is possible or impossible until you've asked the people who will be doing the work.`
 
 Powered by https://api.adviceslip.com/
 
