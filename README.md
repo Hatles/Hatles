@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`A long walk alone with some time to think, can work wonders.`
 
 Powered by https://api.adviceslip.com/
 
