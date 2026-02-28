@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A long walk alone with some time to think, can work wonders.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
