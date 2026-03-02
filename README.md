@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try making a list.`
+`If your hair is thinning, try dying your hair a similar tone to your scalp.`
 
 Powered by https://api.adviceslip.com/
 
