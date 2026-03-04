@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
+`Lemon and salt works wonders on tarnished brass.`
 
 Powered by https://api.adviceslip.com/
 
