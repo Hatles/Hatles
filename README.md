@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Lemon and salt works wonders on tarnished brass.`
+`When you're looking up at birds flying overhead, keep your mouth closed.`
 
 Powered by https://api.adviceslip.com/
 
