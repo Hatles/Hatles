@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`Don't drink bleach.`
 
 Powered by https://api.adviceslip.com/
 
