@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`One of the top five regrets people have is that they didn't have the courage to be their true self.`
 
 Powered by https://api.adviceslip.com/
 
