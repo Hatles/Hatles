@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Share positive energy.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
