@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`What could you increase? What could you reduce?`
 
 Powered by https://api.adviceslip.com/
 
