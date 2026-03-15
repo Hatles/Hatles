@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What could you increase? What could you reduce?`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
