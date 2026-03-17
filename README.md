@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't use Excel or Powerpoint documents for your basic word processing needs.`
+`The person who never made a mistake never made anything.`
 
 Powered by https://api.adviceslip.com/
 
