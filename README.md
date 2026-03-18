@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The person who never made a mistake never made anything.`
+`Never run with scissors.`
 
 Powered by https://api.adviceslip.com/
 
