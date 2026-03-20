@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never let your Mother cut your hair.`
+`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
 
 Powered by https://api.adviceslip.com/
 
