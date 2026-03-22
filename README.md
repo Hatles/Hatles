@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`As things get closer to the light, the shadows get darker.`
+`Don't always rely on your comforts.`
 
 Powered by https://api.adviceslip.com/
 
