@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always rely on your comforts.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
