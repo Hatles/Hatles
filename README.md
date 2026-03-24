@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`For every complex problem there is an answer that is clear, simple, and wrong.`
 
 Powered by https://api.adviceslip.com/
 
