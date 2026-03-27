@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some of life's best lessons are learnt at the worst times.`
+`Try buying a coffee for the creator of a free public API, now and then.`
 
 Powered by https://api.adviceslip.com/
 
