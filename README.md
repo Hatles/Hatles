@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try buying a coffee for the creator of a free public API, now and then.`
+`Remember that spiders are more afraid of you, than you are of them.`
 
 Powered by https://api.adviceslip.com/
 
