@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remember that spiders are more afraid of you, than you are of them.`
+`Always the burrito.`
 
 Powered by https://api.adviceslip.com/
 
