@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
