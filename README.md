@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
 
 Powered by https://api.adviceslip.com/
 
