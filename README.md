@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
+`The sun always shines above the clouds.`
 
 Powered by https://api.adviceslip.com/
 
