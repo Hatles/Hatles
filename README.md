@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The sun always shines above the clouds.`
+`Do not check work email on your days off.`
 
 Powered by https://api.adviceslip.com/
 
