@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
 
 Powered by https://api.adviceslip.com/
 
