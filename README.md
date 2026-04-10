@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When having a clear out, ask yourself if an item has any financial, practical or sentimental value. If not, chuck it.`
+`Only those who attempt the impossible can achieve the absurd.`
 
 Powered by https://api.adviceslip.com/
 
