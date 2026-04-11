@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Only those who attempt the impossible can achieve the absurd.`
+`Keep it simple.`
 
 Powered by https://api.adviceslip.com/
 
