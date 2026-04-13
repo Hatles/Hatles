@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Avoid mixing Ginger Nuts with other biscuits, they contaminate. Keep separated.`
+`If you are ever in doubt about whether or not to wash your hair: Wash it.`
 
 Powered by https://api.adviceslip.com/
 
