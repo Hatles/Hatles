@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`If you have the chance, take it!`
 
 Powered by https://api.adviceslip.com/
 
