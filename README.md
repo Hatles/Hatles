@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can fail at what you don't want. So you might as well take a chance on doing what you love.`
+`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
 
 Powered by https://api.adviceslip.com/
 
