@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
+`When painting a room, preparation is key. The actual painting should account for about 40% of the work.`
 
 Powered by https://api.adviceslip.com/
 
