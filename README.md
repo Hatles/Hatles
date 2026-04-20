@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`State the problem in words as clearly as possible.`
 
 Powered by https://api.adviceslip.com/
 
