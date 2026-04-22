@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A nod is as good as a wink to a blind horse.`
+`Taking photos with tablet devices looks weird.`
 
 Powered by https://api.adviceslip.com/
 
