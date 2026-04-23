@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Taking photos with tablet devices looks weird.`
+`Don't give a speech. Put on a show.`
 
 Powered by https://api.adviceslip.com/
 
