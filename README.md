@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't give a speech. Put on a show.`
+`Try going commando to an important meeting, NB: don't wear a skirt.`
 
 Powered by https://api.adviceslip.com/
 
