@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try going commando to an important meeting, NB: don't wear a skirt.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
