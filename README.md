@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Winter is coming.`
+`It's unlucky to be superstitious.`
 
 Powered by https://api.adviceslip.com/
 
