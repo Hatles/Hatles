@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It's unlucky to be superstitious.`
+`Most things are not as bad as you think they are.`
 
 Powered by https://api.adviceslip.com/
 
