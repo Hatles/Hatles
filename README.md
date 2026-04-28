@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
