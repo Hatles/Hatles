@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
+`You have as many hours in a day as the people you admire most.`
 
 Powered by https://api.adviceslip.com/
 
