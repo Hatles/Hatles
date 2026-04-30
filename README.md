@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You have as many hours in a day as the people you admire most.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
