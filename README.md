@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
