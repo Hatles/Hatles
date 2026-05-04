@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things look better when you put them in a circle.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
