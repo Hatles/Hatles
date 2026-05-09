@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Alway do anything for love, but don't do that.`
+`If you're going bald, don't comb your hair over your bald patch.`
 
 Powered by https://api.adviceslip.com/
 
