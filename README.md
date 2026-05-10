@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're going bald, don't comb your hair over your bald patch.`
+`Things are just things. Don't get too attached to them.`
 
 Powered by https://api.adviceslip.com/
 
