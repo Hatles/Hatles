@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Things are just things. Don't get too attached to them.`
+`Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.`
 
 Powered by https://api.adviceslip.com/
 
