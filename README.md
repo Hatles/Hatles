@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Step 1. Give a shit. Step 2. Don't be a dick. Step 3. Know when to let go.`
+`The higher up you are in a company, the more likely it is that your boss is a psychopath.`
 
 Powered by https://api.adviceslip.com/
 
