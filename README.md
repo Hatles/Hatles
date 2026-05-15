@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes, you just need to say sorry. Even if it's not your fault.`
+`Do, or do not. There is no try.`
 
 Powered by https://api.adviceslip.com/
 
