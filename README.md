@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do, or do not. There is no try.`
+`Always bet on black.`
 
 Powered by https://api.adviceslip.com/
 
