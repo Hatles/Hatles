@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`The quieter you become, the more you can hear.`
 
 Powered by https://api.adviceslip.com/
 
