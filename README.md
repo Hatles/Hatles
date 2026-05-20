@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The quieter you become, the more you can hear.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
