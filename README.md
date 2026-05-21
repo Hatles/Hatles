@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
