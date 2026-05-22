@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Never run a marathon in Crocs.`
 
 Powered by https://api.adviceslip.com/
 
