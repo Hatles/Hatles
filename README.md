@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never run a marathon in Crocs.`
+`It's unlucky to be superstitious.`
 
 Powered by https://api.adviceslip.com/
 
