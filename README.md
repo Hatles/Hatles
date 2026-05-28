@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`If it still itches after a week, go to the doctors.`
 
 Powered by https://api.adviceslip.com/
 
