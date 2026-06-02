@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't use Excel or Powerpoint documents for your basic word processing needs.`
+`Accentuate the positive, eliminate the negative.`
 
 Powered by https://api.adviceslip.com/
 
