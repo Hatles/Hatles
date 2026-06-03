@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accentuate the positive, eliminate the negative.`
+`Don't always believe what you think.`
 
 Powered by https://api.adviceslip.com/
 
