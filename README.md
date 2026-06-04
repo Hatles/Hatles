@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't always believe what you think.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
