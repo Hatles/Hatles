@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Make choices and dont look back.`
+`Always get two ciders.`
 
 Powered by https://api.adviceslip.com/
 
