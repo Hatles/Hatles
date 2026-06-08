@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always get two ciders.`
+`Life is better when you sing about bananas.`
 
 Powered by https://api.adviceslip.com/
 
