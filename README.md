@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is better when you sing about bananas.`
+`Why wait until valentines day for a romantic gesture?`
 
 Powered by https://api.adviceslip.com/
 
