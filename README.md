@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Why wait until valentines day for a romantic gesture?`
+`Always seek out advice or opinions when making a decision.`
 
 Powered by https://api.adviceslip.com/
 
