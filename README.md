@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Always seek out advice or opinions when making a decision.`
+`A common regret in life is wishing one had the courage to be ones true self.`
 
 Powered by https://api.adviceslip.com/
 
