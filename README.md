@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're going bald, don't comb your hair over your bald patch.`
+`You can have too much of a good thing.`
 
 Powered by https://api.adviceslip.com/
 
