@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't put off breaking up with someone when you know you want to. Prolonging the situation only makes it worse.`
+`You never really grow up.`
 
 Powered by https://api.adviceslip.com/
 
