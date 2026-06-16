@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You never really grow up.`
+`For every complex problem there is an answer that is clear, simple, and wrong.`
 
 Powered by https://api.adviceslip.com/
 
