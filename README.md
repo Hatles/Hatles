@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`For every complex problem there is an answer that is clear, simple, and wrong.`
+`Don't take life too seriously.`
 
 Powered by https://api.adviceslip.com/
 
