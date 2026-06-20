@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
 
 Powered by https://api.adviceslip.com/
 
