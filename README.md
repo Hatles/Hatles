@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're feeling tired or anxious, a pint of water will almost always make you feel better.`
+`The most important thing is the thing most easily forgotten.`
 
 Powered by https://api.adviceslip.com/
 
