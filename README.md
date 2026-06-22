@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
