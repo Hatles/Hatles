@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`Be brave. Even if you're not, pretend to be. No one can tell the difference.`
 
 Powered by https://api.adviceslip.com/
 
