@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Value the people in your life.`
+`Life is short enough, don't race to the finish.`
 
 Powered by https://api.adviceslip.com/
 
