@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Life is short enough, don't race to the finish.`
+`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
 
 Powered by https://api.adviceslip.com/
 
