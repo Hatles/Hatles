@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The number of vampires in the average home, is directly proportional to the amount of garlic bread in the fridge.`
+`If you have grandparents or parents - Talk to them more. Ask them about their life experiences.`
 
 Powered by https://api.adviceslip.com/
 
