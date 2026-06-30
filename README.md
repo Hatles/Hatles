@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Winter is coming.`
+`There is no reason at all to believe that White Wine is any different to water when it comes to removing Red Wine stains.`
 
 Powered by https://api.adviceslip.com/
 
