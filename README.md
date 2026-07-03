@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never regret. If it's good, it's wonderful. If it's bad, it's experience.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
