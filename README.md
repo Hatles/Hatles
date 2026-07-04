@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
