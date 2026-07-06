@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the top five regrets people have is that they didn't have the courage to be their true self.`
+`Work is never as important as you think it is.`
 
 Powered by https://api.adviceslip.com/
 
