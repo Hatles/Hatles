@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Work is never as important as you think it is.`
+`Don't waste food.`
 
 Powered by https://api.adviceslip.com/
 
