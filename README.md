@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't waste food.`
+`Learn from your mistakes.`
 
 Powered by https://api.adviceslip.com/
 
