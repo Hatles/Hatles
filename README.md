@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Share positive energy.`
 
 Powered by https://api.adviceslip.com/
 
