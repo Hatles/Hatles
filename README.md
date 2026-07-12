@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You don't need to floss all of your teeth. Only the ones you want to keep.`
+`Brush your teeth the moment you get up.`
 
 Powered by https://api.adviceslip.com/
 
