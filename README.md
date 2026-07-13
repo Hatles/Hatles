@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Brush your teeth the moment you get up.`
+`Alway do anything for love, but don't do that.`
 
 Powered by https://api.adviceslip.com/
 
