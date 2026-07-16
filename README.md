@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Try using an old idea.`
 
 Powered by https://api.adviceslip.com/
 
