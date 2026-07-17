@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Try making a list.`
 
 Powered by https://api.adviceslip.com/
 
