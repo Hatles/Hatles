@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`A long walk alone with some time to think, can work wonders.`
+`If you don't ask, you don't get.`
 
 Powered by https://api.adviceslip.com/
 
