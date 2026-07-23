@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't ask, you don't get.`
+`Don't let the bastards grind you down.`
 
 Powered by https://api.adviceslip.com/
 
