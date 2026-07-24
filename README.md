@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Accentuate the positive, eliminate the negative.`
 
 Powered by https://api.adviceslip.com/
 
