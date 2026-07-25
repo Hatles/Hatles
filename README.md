@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accentuate the positive, eliminate the negative.`
+`Eliminate the unnecessary.`
 
 Powered by https://api.adviceslip.com/
 
