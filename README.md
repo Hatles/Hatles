@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Eliminate the unnecessary.`
+`Never pay full price for a sofa at DFS.`
 
 Powered by https://api.adviceslip.com/
 
