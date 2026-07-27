@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never pay full price for a sofa at DFS.`
+`Give up your seat for someone who needs it.`
 
 Powered by https://api.adviceslip.com/
 
