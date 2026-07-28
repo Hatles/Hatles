@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Give up your seat for someone who needs it.`
+`The more ideas that you give away, the more ideas that will come to you.`
 
 Powered by https://api.adviceslip.com/
 
