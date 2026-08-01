@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You can have too much of a good thing.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
