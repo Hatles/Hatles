@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sarcasm is the lowest form of wit. Employ correctly with apt timing.`
+`Don't promise what you can't deliver.`
 
 Powered by https://api.adviceslip.com/
 
