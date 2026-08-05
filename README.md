@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Exercise in the rain can really make you feel alive.`
+`You're not that important; it's what you do that counts.`
 
 Powered by https://api.adviceslip.com/
 
