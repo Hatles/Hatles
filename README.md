@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You're not that important; it's what you do that counts.`
+`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
 
 Powered by https://api.adviceslip.com/
 
