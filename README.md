@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you cannot unscrew the lid of a jar, try placing a rubber band around its circumference for extra grip.`
+`If you are ever in doubt about whether or not to wash your hair: Wash it.`
 
 Powered by https://api.adviceslip.com/
 
