@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you are ever in doubt about whether or not to wash your hair: Wash it.`
+`Don't ever name files or folders using the word "Final".`
 
 Powered by https://api.adviceslip.com/
 
