@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't let the bastards grind you down.`
+`Never pay full price for a sofa at DFS.`
 
 Powered by https://api.adviceslip.com/
 
