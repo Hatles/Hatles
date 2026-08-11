@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never pay full price for a sofa at DFS.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
