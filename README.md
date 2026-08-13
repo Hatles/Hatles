@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`What's stopping you?`
 
 Powered by https://api.adviceslip.com/
 
