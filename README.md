@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`What's stopping you?`
+`It's wrong to be right.`
 
 Powered by https://api.adviceslip.com/
 
