@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Good things come to those who wait.`
+`Don't use Excel or Powerpoint documents for your basic word processing needs.`
 
 Powered by https://api.adviceslip.com/
 
