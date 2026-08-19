@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't use Excel or Powerpoint documents for your basic word processing needs.`
+`A common regret in life is wishing one hadn't worked so hard.`
 
 Powered by https://api.adviceslip.com/
 
