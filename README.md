@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`Do not seek praise, seek criticism.`
 
 Powered by https://api.adviceslip.com/
 
