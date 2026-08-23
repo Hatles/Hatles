@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When hugging, hug with both arms and apply reasonable, affectionate pressure.`
+`Don't eat non-snow-coloured snow.`
 
 Powered by https://api.adviceslip.com/
 
