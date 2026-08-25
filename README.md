@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remember that spiders are more afraid of you, than you are of them.`
+`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
 
 Powered by https://api.adviceslip.com/
 
