@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`A common regret in life is wishing one hadn't worked so hard.`
 
 Powered by https://api.adviceslip.com/
 
