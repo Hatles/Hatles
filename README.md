@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't wear clean trousers when walking your dog in the park.`
+`Don't drink bleach.`
 
 Powered by https://api.adviceslip.com/
 
