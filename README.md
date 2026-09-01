@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't drink bleach.`
+`You will always regret the round of Tequila.`
 
 Powered by https://api.adviceslip.com/
 
