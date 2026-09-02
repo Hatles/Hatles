@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You will always regret the round of Tequila.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
