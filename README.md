@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accept advice.`
+`Try to pay at least one person a compliment every day.`
 
 Powered by https://api.adviceslip.com/
 
