@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to pay at least one person a compliment every day.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
