@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Some people would be better off if they took their own advice.`
+`Hold the door open for the next person.`
 
 Powered by https://api.adviceslip.com/
 
