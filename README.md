@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Hold the door open for the next person.`
+`Don't cross the streams.`
 
 Powered by https://api.adviceslip.com/
 
