@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't cross the streams.`
+`The hardest things to say are usually the most important.`
 
 Powered by https://api.adviceslip.com/
 
