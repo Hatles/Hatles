@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When something goes wrong in life, just shout "plot twist!" and carry on.`
+`Do something selfless.`
 
 Powered by https://api.adviceslip.com/
 
