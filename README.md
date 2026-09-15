@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do something selfless.`
+`Measure twice, cut once.`
 
 Powered by https://api.adviceslip.com/
 
