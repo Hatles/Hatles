@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Measure twice, cut once.`
+`Good advice is something a man gives when he is too old to set a bad example.`
 
 Powered by https://api.adviceslip.com/
 
