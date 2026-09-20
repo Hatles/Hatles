@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you have the chance, take it!`
+`Learn to handle criticism.`
 
 Powered by https://api.adviceslip.com/
 
