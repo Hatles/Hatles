@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you don't like the opinion you've been given, get another one.`
+`Try to not compliment people on things they don't control.`
 
 Powered by https://api.adviceslip.com/
 
