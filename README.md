@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try to not compliment people on things they don't control.`
+`The most important thing is the thing most easily forgotten.`
 
 Powered by https://api.adviceslip.com/
 
