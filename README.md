@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`The most important thing is the thing most easily forgotten.`
+`Most things done in secrecy are better left undone.`
 
 Powered by https://api.adviceslip.com/
 
