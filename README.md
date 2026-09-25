@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things done in secrecy are better left undone.`
+`Do not check work email on your days off.`
 
 Powered by https://api.adviceslip.com/
 
