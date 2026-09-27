@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When the cistern is filling, the seat is probably still warm.`
+`When you look around and don't see anyone you respect, its time to leave.`
 
 Powered by https://api.adviceslip.com/
 
