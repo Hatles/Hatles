@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you look around and don't see anyone you respect, its time to leave.`
+`Eat food. Not too much, mostly plants.`
 
 Powered by https://api.adviceslip.com/
 
