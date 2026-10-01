@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not seek praise, seek criticism.`
+`Respect your elders.`
 
 Powered by https://api.adviceslip.com/
 
