@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Most things are not as bad as you think they are.`
+`It always seems impossible, until it's done.`
 
 Powered by https://api.adviceslip.com/
 
