@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It always seems impossible, until it's done.`
+`Do not compare yourself with others.`
 
 Powered by https://api.adviceslip.com/
 
