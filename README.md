@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Stop procrastinating.`
 
 Powered by https://api.adviceslip.com/
 
