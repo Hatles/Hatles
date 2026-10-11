@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Stop procrastinating.`
+`If you're squashed close to strangers on public transport, try not to be rude to them. No one likes those situations.`
 
 Powered by https://api.adviceslip.com/
 
