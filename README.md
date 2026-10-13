@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`To cleanly remove the seed from an Avocado, lay a knife firmly across it, and twist.`
+`When you look around and don't see anyone you respect, its time to leave.`
 
 Powered by https://api.adviceslip.com/
 
