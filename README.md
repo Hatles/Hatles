@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you look around and don't see anyone you respect, its time to leave.`
+`A long walk alone with some time to think, can work wonders.`
 
 Powered by https://api.adviceslip.com/
 
