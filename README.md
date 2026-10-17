@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`YOLO`
+`Do not check work email on your days off.`
 
 Powered by https://api.adviceslip.com/
 
