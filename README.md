@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do not check work email on your days off.`
+`Being kind is more rewarding than being right.`
 
 Powered by https://api.adviceslip.com/
 
