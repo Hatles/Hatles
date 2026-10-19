@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Being kind is more rewarding than being right.`
+`Never waste an opportunity to tell someone you love them.`
 
 Powered by https://api.adviceslip.com/
 
