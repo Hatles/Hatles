@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never waste an opportunity to tell someone you love them.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
