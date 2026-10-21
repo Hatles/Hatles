@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`When in doubt, just take the next small step.`
 
 Powered by https://api.adviceslip.com/
 
