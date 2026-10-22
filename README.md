@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When in doubt, just take the next small step.`
+`If you've nothing nice to say, say nothing.`
 
 Powered by https://api.adviceslip.com/
 
