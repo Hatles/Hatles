@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`The best sex is fun.`
 
 Powered by https://api.adviceslip.com/
 
