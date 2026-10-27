@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't eat non-snow-coloured snow.`
+`Plant a tree.`
 
 Powered by https://api.adviceslip.com/
 
