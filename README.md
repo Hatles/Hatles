@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Plant a tree.`
+`Never set an alarm clock unless you know how to switch it off`
 
 Powered by https://api.adviceslip.com/
 
