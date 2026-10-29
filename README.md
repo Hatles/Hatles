@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Never set an alarm clock unless you know how to switch it off`
+`Don't try and bump start a motorcycle on an icy road.`
 
 Powered by https://api.adviceslip.com/
 
