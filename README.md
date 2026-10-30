@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Don't try and bump start a motorcycle on an icy road.`
+`Accept advice.`
 
 Powered by https://api.adviceslip.com/
 
