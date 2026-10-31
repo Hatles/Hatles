@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Accept advice.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
