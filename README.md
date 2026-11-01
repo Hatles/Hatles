@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Play is the true mother of invention.`
+`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
 
 Powered by https://api.adviceslip.com/
 
