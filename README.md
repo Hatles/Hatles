@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`It is easy to sit up and take notice, what's difficult is getting up and taking action.`
+`Everything in moderation, including moderation itself.`
 
 Powered by https://api.adviceslip.com/
 
