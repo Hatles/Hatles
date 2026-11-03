@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Everything in moderation, including moderation itself.`
+`True happiness always resides in the quest.`
 
 Powered by https://api.adviceslip.com/
 
