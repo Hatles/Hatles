@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try using an old idea.`
+`Keep it simple.`
 
 Powered by https://api.adviceslip.com/
 
