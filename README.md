@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you've nothing nice to say, say nothing.`
+`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
 
 Powered by https://api.adviceslip.com/
 
