@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`One of the single best things about being an adult, is being able to buy as much LEGO as you want.`
+`Smile and the world smiles with you. Frown and you're on your own.`
 
 Powered by https://api.adviceslip.com/
 
