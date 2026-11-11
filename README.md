@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Identify sources of happiness.`
+`Play is the true mother of invention.`
 
 Powered by https://api.adviceslip.com/
 
