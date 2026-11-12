@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Play is the true mother of invention.`
+`Walking is a perfectly valid solution to traffic congestion problems.`
 
 Powered by https://api.adviceslip.com/
 
