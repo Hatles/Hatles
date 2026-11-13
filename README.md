@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Walking is a perfectly valid solution to traffic congestion problems.`
+`Sometimes, you just need to say sorry. Even if it's not your fault.`
 
 Powered by https://api.adviceslip.com/
 
