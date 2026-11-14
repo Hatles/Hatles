@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Sometimes, you just need to say sorry. Even if it's not your fault.`
+`If you think nobody cares if you're alive, try missing a few payments.`
 
 Powered by https://api.adviceslip.com/
 
