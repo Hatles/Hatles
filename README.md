@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you think nobody cares if you're alive, try missing a few payments.`
+`Try buying a coffee for the creator of a free public API, now and then.`
 
 Powered by https://api.adviceslip.com/
 
