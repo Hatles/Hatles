@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try buying a coffee for the creator of a free public API, now and then.`
+`Do a bit more for your friends.`
 
 Powered by https://api.adviceslip.com/
 
