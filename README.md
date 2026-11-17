@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Do a bit more for your friends.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
