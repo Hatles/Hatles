@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Try going commando to an important meeting, NB: don't wear a skirt.`
+`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
 
 Powered by https://api.adviceslip.com/
 
