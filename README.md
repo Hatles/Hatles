@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`Remedy tickly coughs with a drink of honey, lemon and water as hot as you can take.`
+`When you're looking up at birds flying overhead, keep your mouth closed.`
 
 Powered by https://api.adviceslip.com/
 
