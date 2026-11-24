@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`When you're looking up at birds flying overhead, keep your mouth closed.`
+`Try buying a coffee for the creator of a free public API, now and then.`
 
 Powered by https://api.adviceslip.com/
 
