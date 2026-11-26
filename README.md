@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`If you're going bald, don't comb your hair over your bald patch.`
+`Winter is coming.`
 
 Powered by https://api.adviceslip.com/
 
