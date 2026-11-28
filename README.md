@@ -7,7 +7,7 @@
 
 **Random slip advice:**
 
-`You spend half your life asleep or in bed. It's worth spending money on a good mattress, decent pillows and a comfy duvet.`
+`To improve productivity, always have a shittier task to put off.`
 
 Powered by https://api.adviceslip.com/
 
